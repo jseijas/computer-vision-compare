@@ -1,0 +1,91 @@
+{
+    "adult": {
+        "adultScore": 0.07643677294254303,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.10235527157783508
+    },
+    "categories": [
+        {
+            "name": "abstract_",
+            "score": 0.00390625
+        },
+        {
+            "name": "building_street",
+            "score": 0.21875
+        },
+        {
+            "name": "others_",
+            "score": 0.1953125
+        }
+    ],
+    "color": {
+        "accentColor": "8E6E3D",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "White"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9126860578555698,
+                "text": "a black computer mouse and keyboard"
+            }
+        ],
+        "tags": [
+            "keyboard",
+            "computer",
+            "electronics",
+            "table",
+            "indoor",
+            "mouse",
+            "sitting",
+            "desk",
+            "black",
+            "wooden",
+            "top",
+            "white",
+            "dog",
+            "board",
+            "remote",
+            "laying"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 3024,
+        "width": 4032
+    },
+    "requestId": "229caa17-56f6-498a-a762-121bc08281b0",
+    "response_time": 13.359046220779419,
+    "tags": [
+        {
+            "confidence": 0.9930100440979004,
+            "name": "keyboard"
+        },
+        {
+            "confidence": 0.9734346270561218,
+            "name": "computer"
+        },
+        {
+            "confidence": 0.9691210389137268,
+            "name": "electronics"
+        },
+        {
+            "confidence": 0.9288869500160217,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.8720265030860901,
+            "name": "mouse"
+        }
+    ]
+}

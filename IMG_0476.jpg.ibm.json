@@ -1,0 +1,75 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "bomber jacket",
+                            "score": 0.794,
+                            "type_hierarchy": "/garment/overgarment/coat/bomber jacket"
+                        },
+                        {
+                            "class": "coat",
+                            "score": 0.927
+                        },
+                        {
+                            "class": "overgarment",
+                            "score": 0.93
+                        },
+                        {
+                            "class": "garment",
+                            "score": 0.93
+                        },
+                        {
+                            "class": "oilskin",
+                            "score": 0.607,
+                            "type_hierarchy": "/garment/overgarment/coat/raincoat/oilskin"
+                        },
+                        {
+                            "class": "raincoat",
+                            "score": 0.607
+                        },
+                        {
+                            "class": "air jacket",
+                            "score": 0.534,
+                            "type_hierarchy": "/rescue equipment/life preserver/air jacket"
+                        },
+                        {
+                            "class": "life preserver",
+                            "score": 0.535
+                        },
+                        {
+                            "class": "rescue equipment",
+                            "score": 0.535
+                        },
+                        {
+                            "class": "ski parka",
+                            "score": 0.506,
+                            "type_hierarchy": "/garment/overgarment/coat/ski parka"
+                        },
+                        {
+                            "class": "sheepskin coat",
+                            "score": 0.5,
+                            "type_hierarchy": "/garment/overgarment/coat/sheepskin coat"
+                        },
+                        {
+                            "class": "gray color",
+                            "score": 0.874
+                        },
+                        {
+                            "class": "ash grey color",
+                            "score": 0.554
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": ""
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.4790990352630615
+}

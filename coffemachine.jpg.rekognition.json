@@ -1,0 +1,21 @@
+{
+    "Labels": [
+        {
+            "Confidence": 50.56294631958008,
+            "Name": "Accessories"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "66",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 24 Aug 2017 11:59:46 GMT",
+            "x-amzn-requestid": "b741002f-88c3-11e7-9de5-33a60f0e49a7"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "b741002f-88c3-11e7-9de5-33a60f0e49a7",
+        "RetryAttempts": 0
+    },
+    "response_time": 3.2043187618255615
+}

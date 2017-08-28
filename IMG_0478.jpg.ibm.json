@@ -1,0 +1,43 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "earphone",
+                            "score": 0.801
+                        },
+                        {
+                            "class": "earmuff",
+                            "score": 0.632
+                        },
+                        {
+                            "class": "eyepatch",
+                            "score": 0.505
+                        },
+                        {
+                            "class": "headset",
+                            "score": 0.5,
+                            "type_hierarchy": "/electrical device/headset"
+                        },
+                        {
+                            "class": "electrical device",
+                            "score": 0.501
+                        },
+                        {
+                            "class": "coal black color",
+                            "score": 0.945
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": ""
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.237123966217041
+}

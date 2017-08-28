@@ -1,0 +1,110 @@
+{
+    "adult": {
+        "adultScore": 0.08620786666870117,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.036987122148275375
+    },
+    "categories": [
+        {
+            "name": "abstract_rect",
+            "score": 0.25390625
+        },
+        {
+            "name": "others_",
+            "score": 0.04296875
+        }
+    ],
+    "color": {
+        "accentColor": "643028",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "White",
+            "Black"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8167689629007217,
+                "text": "a flat screen television"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "monitor",
+            "television",
+            "flat",
+            "sitting",
+            "screen",
+            "table",
+            "top",
+            "mounted",
+            "black",
+            "white",
+            "standing",
+            "small",
+            "computer",
+            "large",
+            "desk",
+            "wooden",
+            "counter",
+            "room",
+            "red",
+            "refrigerator",
+            "steel",
+            "kitchen",
+            "living",
+            "video",
+            "remote"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 360
+    },
+    "requestId": "3086909d-fdd6-4a36-a0b1-ebd59e8f2f38",
+    "response_time": 2.1672165393829346,
+    "tags": [
+        {
+            "confidence": 0.9985246062278748,
+            "name": "wall"
+        },
+        {
+            "confidence": 0.9878331422805786,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.9790515899658203,
+            "name": "monitor"
+        },
+        {
+            "confidence": 0.9139809608459473,
+            "name": "television"
+        },
+        {
+            "confidence": 0.7146719694137573,
+            "name": "flat"
+        },
+        {
+            "confidence": 0.6694909930229187,
+            "name": "electronics"
+        },
+        {
+            "confidence": 0.6475998163223267,
+            "name": "display"
+        },
+        {
+            "confidence": 0.5257599353790283,
+            "name": "mounted"
+        }
+    ]
+}

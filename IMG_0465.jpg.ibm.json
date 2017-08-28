@@ -1,0 +1,39 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "acoustic guitar",
+                            "score": 0.824,
+                            "type_hierarchy": "/musical instrument/stringed instrument/guitar/acoustic guitar"
+                        },
+                        {
+                            "class": "guitar",
+                            "score": 0.953
+                        },
+                        {
+                            "class": "stringed instrument",
+                            "score": 0.962
+                        },
+                        {
+                            "class": "musical instrument",
+                            "score": 0.965
+                        },
+                        {
+                            "class": "reddish brown color",
+                            "score": 1.0
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": ""
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.4040372371673584
+}

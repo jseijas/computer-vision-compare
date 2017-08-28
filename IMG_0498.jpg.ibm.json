@@ -1,0 +1,84 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "accelerator pedal",
+                            "score": 0.597,
+                            "type_hierarchy": "/bar/lever/foot pedal/accelerator pedal"
+                        },
+                        {
+                            "class": "foot pedal",
+                            "score": 0.611
+                        },
+                        {
+                            "class": "lever",
+                            "score": 0.611
+                        },
+                        {
+                            "class": "bar",
+                            "score": 0.611
+                        },
+                        {
+                            "class": "dongle (flash drive)",
+                            "score": 0.571,
+                            "type_hierarchy": "/electronic device/dongle (flash drive)"
+                        },
+                        {
+                            "class": "electronic device",
+                            "score": 0.67
+                        },
+                        {
+                            "class": "video iPod",
+                            "score": 0.546,
+                            "type_hierarchy": "/audio system/stereo system/video iPod"
+                        },
+                        {
+                            "class": "stereo system",
+                            "score": 0.642
+                        },
+                        {
+                            "class": "audio system",
+                            "score": 0.642
+                        },
+                        {
+                            "class": "iPod",
+                            "score": 0.524,
+                            "type_hierarchy": "/audio system/stereo system/iPod"
+                        },
+                        {
+                            "class": "faceplate",
+                            "score": 0.508,
+                            "type_hierarchy": "/protective covering/faceplate"
+                        },
+                        {
+                            "class": "protective covering",
+                            "score": 0.511
+                        },
+                        {
+                            "class": "pager",
+                            "score": 0.5,
+                            "type_hierarchy": "/electronic device/pager"
+                        },
+                        {
+                            "class": "charcoal color",
+                            "score": 0.963
+                        },
+                        {
+                            "class": "coal black color",
+                            "score": 0.792
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": ""
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.1550569534301758
+}

@@ -1,0 +1,98 @@
+{
+    "adult": {
+        "adultScore": 0.09456606954336166,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.06421426683664322
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.0390625
+        }
+    ],
+    "color": {
+        "accentColor": "927039",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "Black"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.48704331354600783,
+                "text": "a blender sitting on a kitchen counter"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "blender",
+            "kitchen",
+            "food",
+            "counter",
+            "sitting",
+            "top",
+            "microwave",
+            "filled",
+            "table",
+            "refrigerator",
+            "stove",
+            "cooking",
+            "standing",
+            "man",
+            "white",
+            "oven"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 360
+    },
+    "requestId": "9631aaba-38af-4e44-9fdd-fb039bb70730",
+    "response_time": 3.6323628425598145,
+    "tags": [
+        {
+            "confidence": 0.9912744164466858,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.982607901096344,
+            "name": "wall"
+        },
+        {
+            "confidence": 0.8507800698280334,
+            "name": "blender"
+        },
+        {
+            "confidence": 0.6987062096595764,
+            "hint": "animal",
+            "name": "appliance"
+        },
+        {
+            "confidence": 0.6544217467308044,
+            "name": "counter"
+        },
+        {
+            "confidence": 0.6376011967658997,
+            "name": "kitchen appliance"
+        },
+        {
+            "confidence": 0.3354800045490265,
+            "name": "coffee maker"
+        },
+        {
+            "confidence": 0.1881592720746994,
+            "name": "cluttered"
+        }
+    ]
+}

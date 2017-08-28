@@ -1,0 +1,65 @@
+{
+    "response_time": 1.1751174926757812,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "blue",
+                    "mid": "/m/01g5v",
+                    "score": 0.96813583
+                },
+                {
+                    "description": "display device",
+                    "mid": "/m/029zz6",
+                    "score": 0.9253657
+                },
+                {
+                    "description": "screen",
+                    "mid": "/m/01t3_",
+                    "score": 0.9200646
+                },
+                {
+                    "description": "computer monitor",
+                    "mid": "/m/02522",
+                    "score": 0.8955748
+                },
+                {
+                    "description": "technology",
+                    "mid": "/m/07c1v",
+                    "score": 0.85645103
+                },
+                {
+                    "description": "led backlit lcd display",
+                    "mid": "/m/05p37dx",
+                    "score": 0.7772937
+                },
+                {
+                    "description": "television",
+                    "mid": "/m/07c52",
+                    "score": 0.7679968
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/02n3pb",
+                    "score": 0.76411146
+                },
+                {
+                    "description": "multimedia",
+                    "mid": "/m/0541p",
+                    "score": 0.7468804
+                },
+                {
+                    "description": "flat panel display",
+                    "mid": "/m/01qwsw",
+                    "score": 0.7450908
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

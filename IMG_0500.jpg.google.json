@@ -1,0 +1,65 @@
+{
+    "response_time": 1.0021002292633057,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "display device",
+                    "mid": "/m/029zz6",
+                    "score": 0.91682434
+                },
+                {
+                    "description": "screen",
+                    "mid": "/m/01t3_",
+                    "score": 0.90555334
+                },
+                {
+                    "description": "technology",
+                    "mid": "/m/07c1v",
+                    "score": 0.8662166
+                },
+                {
+                    "description": "computer monitor",
+                    "mid": "/m/02522",
+                    "score": 0.816523
+                },
+                {
+                    "description": "electronic device",
+                    "mid": "/m/0bs7_0t",
+                    "score": 0.7899416
+                },
+                {
+                    "description": "flat panel display",
+                    "mid": "/m/01qwsw",
+                    "score": 0.76718026
+                },
+                {
+                    "description": "television",
+                    "mid": "/m/07c52",
+                    "score": 0.765488
+                },
+                {
+                    "description": "monitor",
+                    "mid": "/m/01dxlg",
+                    "score": 0.7396301
+                },
+                {
+                    "description": "multimedia",
+                    "mid": "/m/0541p",
+                    "score": 0.73122543
+                },
+                {
+                    "description": "lcd tv",
+                    "mid": "/m/09dx1f8",
+                    "score": 0.6666677
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

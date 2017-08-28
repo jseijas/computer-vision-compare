@@ -1,0 +1,55 @@
+{
+    "response_time": 3.724372386932373,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "electronic device",
+                    "mid": "/m/0bs7_0t",
+                    "score": 0.82909966
+                },
+                {
+                    "description": "technology",
+                    "mid": "/m/07c1v",
+                    "score": 0.8271595
+                },
+                {
+                    "description": "laptop",
+                    "mid": "/m/01c648",
+                    "score": 0.7301306
+                },
+                {
+                    "description": "product design",
+                    "mid": "/m/03y18t",
+                    "score": 0.6765885
+                },
+                {
+                    "description": "electronics",
+                    "mid": "/m/02mrp",
+                    "score": 0.66547626
+                },
+                {
+                    "description": "computer accessory",
+                    "mid": "/m/0h8llnv",
+                    "score": 0.61187845
+                },
+                {
+                    "description": "netbook",
+                    "mid": "/m/0403lcy",
+                    "score": 0.5224927
+                },
+                {
+                    "description": "laptop part",
+                    "mid": "/m/0h8n5k2",
+                    "score": 0.51017237
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

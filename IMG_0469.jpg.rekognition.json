@@ -1,0 +1,33 @@
+{
+    "Labels": [
+        {
+            "Confidence": 97.46096801757812,
+            "Name": "Appliance"
+        },
+        {
+            "Confidence": 97.46096801757812,
+            "Name": "Fridge"
+        },
+        {
+            "Confidence": 97.46096801757812,
+            "Name": "Refrigerator"
+        },
+        {
+            "Confidence": 50.594085693359375,
+            "Name": "Bowl"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "216",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 24 Aug 2017 12:05:21 GMT",
+            "x-amzn-requestid": "80320aa0-88c4-11e7-a41d-d51919c0ffc4"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "80320aa0-88c4-11e7-a41d-d51919c0ffc4",
+        "RetryAttempts": 0
+    },
+    "response_time": 1.0730650424957275
+}

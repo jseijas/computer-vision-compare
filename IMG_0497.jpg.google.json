@@ -1,0 +1,65 @@
+{
+    "response_time": 1.2090904712677002,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "mobile phone",
+                    "mid": "/m/050k8",
+                    "score": 0.97638696
+                },
+                {
+                    "description": "gadget",
+                    "mid": "/m/02mf1n",
+                    "score": 0.95005584
+                },
+                {
+                    "description": "feature phone",
+                    "mid": "/m/0bxyyx_",
+                    "score": 0.9266045
+                },
+                {
+                    "description": "technology",
+                    "mid": "/m/07c1v",
+                    "score": 0.8856504
+                },
+                {
+                    "description": "electronic device",
+                    "mid": "/m/0bs7_0t",
+                    "score": 0.88287425
+                },
+                {
+                    "description": "portable communications device",
+                    "mid": "/m/020fsy",
+                    "score": 0.86458504
+                },
+                {
+                    "description": "communication device",
+                    "mid": "/m/0glmwd6",
+                    "score": 0.8558526
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/02n3pb",
+                    "score": 0.8060625
+                },
+                {
+                    "description": "electronics",
+                    "mid": "/m/02mrp",
+                    "score": 0.7892232
+                },
+                {
+                    "description": "smartphone",
+                    "mid": "/m/0169zh",
+                    "score": 0.7582429
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

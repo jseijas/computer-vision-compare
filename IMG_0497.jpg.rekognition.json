@@ -1,0 +1,33 @@
+{
+    "Labels": [
+        {
+            "Confidence": 84.25802612304688,
+            "Name": "Cell Phone"
+        },
+        {
+            "Confidence": 84.25802612304688,
+            "Name": "Electronics"
+        },
+        {
+            "Confidence": 84.25802612304688,
+            "Name": "Mobile Phone"
+        },
+        {
+            "Confidence": 84.25802612304688,
+            "Name": "Phone"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "222",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 24 Aug 2017 12:09:46 GMT",
+            "x-amzn-requestid": "1e7d441f-88c5-11e7-8a15-4d310521c5f7"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "1e7d441f-88c5-11e7-8a15-4d310521c5f7",
+        "RetryAttempts": 0
+    },
+    "response_time": 1.0361037254333496
+}

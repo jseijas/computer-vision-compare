@@ -1,0 +1,87 @@
+{
+    "adult": {
+        "adultScore": 0.04295548424124718,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.04760641232132912
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.10546875
+        },
+        {
+            "name": "object_screen",
+            "score": 0.8203125
+        }
+    ],
+    "color": {
+        "accentColor": "90693B",
+        "dominantColorBackground": "Black",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Black",
+            "Grey"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8688648403841026,
+                "text": "a desk with a laptop computer sitting on a table"
+            }
+        ],
+        "tags": [
+            "table",
+            "indoor",
+            "computer",
+            "desk",
+            "sitting",
+            "electronics",
+            "laptop",
+            "top",
+            "keyboard",
+            "mouse",
+            "black",
+            "laying",
+            "white",
+            "water",
+            "phone"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 4032,
+        "width": 3024
+    },
+    "requestId": "69a39da1-aa6c-4203-bd80-2bba25cdbc78",
+    "response_time": 12.729272842407227,
+    "tags": [
+        {
+            "confidence": 0.9847434759140015,
+            "name": "table"
+        },
+        {
+            "confidence": 0.9736624360084534,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.9154903888702393,
+            "name": "computer"
+        },
+        {
+            "confidence": 0.8847197890281677,
+            "name": "desk"
+        },
+        {
+            "confidence": 0.8297358751296997,
+            "name": "electronics"
+        }
+    ]
+}

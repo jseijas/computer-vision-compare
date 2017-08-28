@@ -1,0 +1,60 @@
+{
+    "response_time": 1.1330757141113281,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "mobile phone",
+                    "mid": "/m/050k8",
+                    "score": 0.860506
+                },
+                {
+                    "description": "technology",
+                    "mid": "/m/07c1v",
+                    "score": 0.81533134
+                },
+                {
+                    "description": "electronics",
+                    "mid": "/m/02mrp",
+                    "score": 0.7769121
+                },
+                {
+                    "description": "gadget",
+                    "mid": "/m/02mf1n",
+                    "score": 0.7302097
+                },
+                {
+                    "description": "electronic device",
+                    "mid": "/m/0bs7_0t",
+                    "score": 0.710146
+                },
+                {
+                    "description": "portable media player",
+                    "mid": "/m/05bfd4",
+                    "score": 0.64448315
+                },
+                {
+                    "description": "product design",
+                    "mid": "/m/03y18t",
+                    "score": 0.63800496
+                },
+                {
+                    "description": "portable communications device",
+                    "mid": "/m/020fsy",
+                    "score": 0.59125376
+                },
+                {
+                    "description": "communication device",
+                    "mid": "/m/0glmwd6",
+                    "score": 0.55906314
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

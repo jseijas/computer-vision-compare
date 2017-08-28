@@ -1,0 +1,44 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "batting helmet",
+                            "score": 0.961,
+                            "type_hierarchy": "/headdress/helmet/batting helmet"
+                        },
+                        {
+                            "class": "helmet",
+                            "score": 0.991
+                        },
+                        {
+                            "class": "headdress",
+                            "score": 0.991
+                        },
+                        {
+                            "class": "crash helmet",
+                            "score": 0.5,
+                            "type_hierarchy": "/headdress/helmet/crash helmet"
+                        },
+                        {
+                            "class": "charcoal color",
+                            "score": 0.895
+                        },
+                        {
+                            "class": "coal black color",
+                            "score": 0.625
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": ""
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.2231223583221436
+}

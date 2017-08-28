@@ -1,0 +1,40 @@
+{
+    "response_time": 3.8923892974853516,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "small appliance",
+                    "mid": "/m/017z18",
+                    "score": 0.83974826
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/02n3pb",
+                    "score": 0.7458909
+                },
+                {
+                    "description": "product design",
+                    "mid": "/m/03y18t",
+                    "score": 0.64322865
+                },
+                {
+                    "description": "coffeemaker",
+                    "mid": "/m/07xyvk",
+                    "score": 0.63210607
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/01jwgf",
+                    "score": 0.5173012
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

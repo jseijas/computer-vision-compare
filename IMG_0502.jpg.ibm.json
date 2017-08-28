@@ -1,0 +1,65 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "liquid crystal display",
+                            "score": 0.783,
+                            "type_hierarchy": "/electronic device/video display/liquid crystal display"
+                        },
+                        {
+                            "class": "video display",
+                            "score": 0.855
+                        },
+                        {
+                            "class": "electronic device",
+                            "score": 0.855
+                        },
+                        {
+                            "class": "high-definition television",
+                            "score": 0.624,
+                            "type_hierarchy": "/telecommunication/broadcasting/television/high-definition television"
+                        },
+                        {
+                            "class": "television",
+                            "score": 0.683
+                        },
+                        {
+                            "class": "broadcasting",
+                            "score": 0.683
+                        },
+                        {
+                            "class": "telecommunication",
+                            "score": 0.683
+                        },
+                        {
+                            "class": "flat panel display",
+                            "score": 0.511,
+                            "type_hierarchy": "/electronic device/video display/flat panel display"
+                        },
+                        {
+                            "class": "monitor (computer)",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "ultramarine color",
+                            "score": 0.921
+                        },
+                        {
+                            "class": "blue color",
+                            "score": 0.755
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": ""
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.3401339054107666
+}

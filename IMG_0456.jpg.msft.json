@@ -1,0 +1,82 @@
+{
+    "adult": {
+        "adultScore": 0.051839299499988556,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.034215960651636124
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.02734375
+        },
+        {
+            "name": "people_",
+            "score": 0.7109375
+        }
+    ],
+    "color": {
+        "accentColor": "765477",
+        "dominantColorBackground": "Black",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "Black"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.35028515168786917,
+                "text": "person standing in front of a refrigerator"
+            }
+        ],
+        "tags": [
+            "refrigerator",
+            "indoor",
+            "kitchen",
+            "small",
+            "top",
+            "sitting",
+            "paper",
+            "man",
+            "steel",
+            "microwave",
+            "door",
+            "stainless",
+            "young",
+            "standing",
+            "woman",
+            "table",
+            "room",
+            "sink",
+            "holding",
+            "white",
+            "stove",
+            "laying"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 1600,
+        "width": 900
+    },
+    "requestId": "97485d33-41a4-47c0-b854-967ef6f4579b",
+    "response_time": 3.9223923683166504,
+    "tags": [
+        {
+            "confidence": 0.9913252592086792,
+            "name": "refrigerator"
+        },
+        {
+            "confidence": 0.9824129343032837,
+            "name": "indoor"
+        }
+    ]
+}

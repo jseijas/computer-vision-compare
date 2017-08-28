@@ -1,0 +1,69 @@
+{
+    "Labels": [
+        {
+            "Confidence": 71.58378601074219,
+            "Name": "Computer"
+        },
+        {
+            "Confidence": 71.58378601074219,
+            "Name": "Electronics"
+        },
+        {
+            "Confidence": 71.58378601074219,
+            "Name": "LCD Screen"
+        },
+        {
+            "Confidence": 71.58378601074219,
+            "Name": "Laptop"
+        },
+        {
+            "Confidence": 71.58378601074219,
+            "Name": "Pc"
+        },
+        {
+            "Confidence": 67.54051971435547,
+            "Name": "Sink"
+        },
+        {
+            "Confidence": 55.805843353271484,
+            "Name": "Accessories"
+        },
+        {
+            "Confidence": 52.99876403808594,
+            "Name": "Adapter"
+        },
+        {
+            "Confidence": 52.99876403808594,
+            "Name": "Connector"
+        },
+        {
+            "Confidence": 50.96303939819336,
+            "Name": "Architecture"
+        },
+        {
+            "Confidence": 50.68630599975586,
+            "Name": "Building"
+        },
+        {
+            "Confidence": 50.68630599975586,
+            "Name": "Office Building"
+        },
+        {
+            "Confidence": 50.527774810791016,
+            "Name": "Furniture"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "685",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 24 Aug 2017 12:03:45 GMT",
+            "x-amzn-requestid": "47884578-88c4-11e7-8a15-4d310521c5f7"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "47884578-88c4-11e7-8a15-4d310521c5f7",
+        "RetryAttempts": 0
+    },
+    "response_time": 1.0680875778198242
+}

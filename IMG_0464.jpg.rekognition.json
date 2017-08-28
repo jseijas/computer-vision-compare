@@ -1,0 +1,41 @@
+{
+    "Labels": [
+        {
+            "Confidence": 80.75538635253906,
+            "Name": "Electronics"
+        },
+        {
+            "Confidence": 80.75538635253906,
+            "Name": "Loudspeaker"
+        },
+        {
+            "Confidence": 80.75538635253906,
+            "Name": "Speaker"
+        },
+        {
+            "Confidence": 63.49129104614258,
+            "Name": "Joystick"
+        },
+        {
+            "Confidence": 51.13481140136719,
+            "Name": "Camera"
+        },
+        {
+            "Confidence": 51.13481140136719,
+            "Name": "Video Camera"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "325",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 24 Aug 2017 12:04:10 GMT",
+            "x-amzn-requestid": "55dbb939-88c4-11e7-9be7-291064709f50"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "55dbb939-88c4-11e7-9be7-291064709f50",
+        "RetryAttempts": 0
+    },
+    "response_time": 1.1160924434661865
+}

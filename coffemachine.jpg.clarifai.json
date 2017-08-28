@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2017-08-24T12:00:35.983114402Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_786Zr311",
+                        "name": "no person",
+                        "value": 0.978546
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_62K34TR4",
+                        "name": "technology",
+                        "value": 0.97629064
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_XjXrH3qf",
+                        "name": "electronics",
+                        "value": 0.9040284
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_4Qjv5PTH",
+                        "name": "modern",
+                        "value": 0.8973285
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_j09mzT6j",
+                        "name": "family",
+                        "value": 0.8971421
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_P2ktCFHk",
+                        "name": "plastic",
+                        "value": 0.88741076
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Pf2b7clG",
+                        "name": "indoors",
+                        "value": 0.8792299
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_GzNlpxwb",
+                        "name": "equipment",
+                        "value": 0.8729094
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_jdqLsqcW",
+                        "name": "machinery",
+                        "value": 0.8708377
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_rxcHpHks",
+                        "name": "isolated",
+                        "value": 0.8645874
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_K1ntqFzK",
+                        "name": "security",
+                        "value": 0.8606218
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_6lhccv44",
+                        "name": "business",
+                        "value": 0.86012
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_LGVzMd61",
+                        "name": "appliance",
+                        "value": 0.8500478
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_WTrlNkqM",
+                        "name": "vehicle",
+                        "value": 0.83911884
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_LplXDDZ2",
+                        "name": "car",
+                        "value": 0.83819056
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_92z7j7Vc",
+                        "name": "machine",
+                        "value": 0.8277201
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_lvj2zQS4",
+                        "name": "control",
+                        "value": 0.8263032
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_pCnxWJZh",
+                        "name": "contemporary",
+                        "value": 0.8182964
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_kKszJrhP",
+                        "name": "safety",
+                        "value": 0.8136006
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_6KkVGbdm",
+                        "name": "telephone",
+                        "value": 0.8078339
+                    }
+                ]
+            },
+            "id": "b5fd013078194619b34636560bfd3422",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "true",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img2/prod/small/d89d07d71d084afe80925d70ebff9d75/f68f41ede0584d529ed861c0c1533921"
+                    }
+                },
+                "id": "d5ca926bca0748099c023eb450276b0d"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 12.563256025314331,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

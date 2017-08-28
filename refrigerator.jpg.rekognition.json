@@ -1,0 +1,85 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.58610534667969,
+            "Name": "Business Card"
+        },
+        {
+            "Confidence": 98.58610534667969,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 98.58610534667969,
+            "Name": "Text"
+        },
+        {
+            "Confidence": 74.86871337890625,
+            "Name": "Brochure"
+        },
+        {
+            "Confidence": 74.86871337890625,
+            "Name": "Flyer"
+        },
+        {
+            "Confidence": 74.86871337890625,
+            "Name": "Poster"
+        },
+        {
+            "Confidence": 63.704139709472656,
+            "Name": "Apartment"
+        },
+        {
+            "Confidence": 63.704139709472656,
+            "Name": "Housing"
+        },
+        {
+            "Confidence": 63.704139709472656,
+            "Name": "Indoors"
+        },
+        {
+            "Confidence": 63.704139709472656,
+            "Name": "Room"
+        },
+        {
+            "Confidence": 61.174041748046875,
+            "Name": "Pot"
+        },
+        {
+            "Confidence": 61.174041748046875,
+            "Name": "Pottery"
+        },
+        {
+            "Confidence": 55.98564910888672,
+            "Name": "Building"
+        },
+        {
+            "Confidence": 52.52164077758789,
+            "Name": "Interior Design"
+        },
+        {
+            "Confidence": 51.739131927490234,
+            "Name": "Furniture"
+        },
+        {
+            "Confidence": 50.882381439208984,
+            "Name": "File Binder"
+        },
+        {
+            "Confidence": 50.882381439208984,
+            "Name": "File Folder"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "884",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 24 Aug 2017 12:16:18 GMT",
+            "x-amzn-requestid": "05af0e47-88c6-11e7-9de5-33a60f0e49a7"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "05af0e47-88c6-11e7-9de5-33a60f0e49a7",
+        "RetryAttempts": 0
+    },
+    "response_time": 5.445544242858887
+}

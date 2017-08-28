@@ -1,0 +1,86 @@
+{
+    "adult": {
+        "adultScore": 0.046707186847925186,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.1672479659318924
+    },
+    "categories": [
+        {
+            "name": "abstract_",
+            "score": 0.0078125
+        },
+        {
+            "name": "others_",
+            "score": 0.04296875
+        }
+    ],
+    "color": {
+        "accentColor": "886D43",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Black",
+            "Grey",
+            "White"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.47084933489885655,
+                "text": "a desk with a computer on a table"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "table",
+            "computer",
+            "sitting",
+            "desk",
+            "laptop",
+            "monitor",
+            "top",
+            "box",
+            "television",
+            "small",
+            "screen",
+            "white",
+            "mirror",
+            "counter",
+            "room",
+            "large",
+            "keyboard",
+            "sink",
+            "mouse",
+            "desktop",
+            "refrigerator",
+            "remote",
+            "stove",
+            "video"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 360
+    },
+    "requestId": "a5881cfd-c339-4a69-8055-787289f9848d",
+    "response_time": 3.522228240966797,
+    "tags": [
+        {
+            "confidence": 0.9756986498832703,
+            "name": "wall"
+        },
+        {
+            "confidence": 0.9707919955253601,
+            "name": "indoor"
+        }
+    ]
+}

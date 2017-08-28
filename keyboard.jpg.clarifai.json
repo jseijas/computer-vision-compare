@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2017-08-24T12:13:04.080462283Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_PpTcwbdQ",
+                        "name": "computer",
+                        "value": 0.99736315
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_62K34TR4",
+                        "name": "technology",
+                        "value": 0.99678767
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_NlcQV0cv",
+                        "name": "keyboard",
+                        "value": 0.99451596
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_6lhccv44",
+                        "name": "business",
+                        "value": 0.990358
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_ll97lFvS",
+                        "name": "office",
+                        "value": 0.9884218
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_mLjp28kd",
+                        "name": "laptop",
+                        "value": 0.9862605
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_XjXrH3qf",
+                        "name": "electronics",
+                        "value": 0.9861783
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_pPJbNBqf",
+                        "name": "connection",
+                        "value": 0.97711986
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_hHMzVnx2",
+                        "name": "internet",
+                        "value": 0.9736159
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_9kHRpGGd",
+                        "name": "data",
+                        "value": 0.96798325
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_786Zr311",
+                        "name": "no person",
+                        "value": 0.9600953
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Qbldzzv0",
+                        "name": "device",
+                        "value": 0.9514438
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_GzNlpxwb",
+                        "name": "equipment",
+                        "value": 0.9507036
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_5ML04hm0",
+                        "name": "work",
+                        "value": 0.9461309
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_sHT6kzSd",
+                        "name": "input",
+                        "value": 0.9441994
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_4Qjv5PTH",
+                        "name": "modern",
+                        "value": 0.93976116
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_pCnxWJZh",
+                        "name": "contemporary",
+                        "value": 0.9050633
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_0qS6nzzT",
+                        "name": "wireless",
+                        "value": 0.8817911
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_ztnsldC6",
+                        "name": "mouse",
+                        "value": 0.8757607
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_M8sQ9ML9",
+                        "name": "display",
+                        "value": 0.8706119
+                    }
+                ]
+            },
+            "id": "b023972b060341d986d721cf07446af5",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "true",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img2/prod/small/d89d07d71d084afe80925d70ebff9d75/cd5cdc1a370b4fa995ed7b204a3324bf"
+                    }
+                },
+                "id": "ebb259f844f44271b295c15ed7b850b0"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 13.229071617126465,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

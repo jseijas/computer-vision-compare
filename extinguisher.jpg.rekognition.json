@@ -1,0 +1,37 @@
+{
+    "Labels": [
+        {
+            "Confidence": 62.10333251953125,
+            "Name": "Office"
+        },
+        {
+            "Confidence": 62.10333251953125,
+            "Name": "Room"
+        },
+        {
+            "Confidence": 57.373046875,
+            "Name": "Closet"
+        },
+        {
+            "Confidence": 57.373046875,
+            "Name": "Kiosk"
+        },
+        {
+            "Confidence": 50.545345306396484,
+            "Name": "Furniture"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "248",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 24 Aug 2017 12:00:41 GMT",
+            "x-amzn-requestid": "d7ce480d-88c3-11e7-a41d-d51919c0ffc4"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "d7ce480d-88c3-11e7-a41d-d51919c0ffc4",
+        "RetryAttempts": 0
+    },
+    "response_time": 3.995399236679077
+}

@@ -1,0 +1,122 @@
+{
+    "adult": {
+        "adultScore": 0.06766010820865631,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.0396268367767334
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.0078125
+        },
+        {
+            "name": "object_screen",
+            "score": 0.8828125
+        }
+    ],
+    "color": {
+        "accentColor": "222FA9",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Blue",
+        "dominantColors": [
+            "White",
+            "Blue"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8851562355671034,
+                "text": "a flat screen television"
+            }
+        ],
+        "tags": [
+            "monitor",
+            "indoor",
+            "screen",
+            "television",
+            "electronics",
+            "table",
+            "flat",
+            "sitting",
+            "top",
+            "desk",
+            "computer",
+            "mounted",
+            "white",
+            "black",
+            "large",
+            "desktop",
+            "keyboard",
+            "standing",
+            "wooden",
+            "counter",
+            "center",
+            "microwave",
+            "sign",
+            "man",
+            "display",
+            "holding",
+            "video",
+            "room",
+            "clock",
+            "board"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 360
+    },
+    "requestId": "da9f4989-c1e0-45ea-bf28-e70dc6d28050",
+    "response_time": 2.6992697715759277,
+    "tags": [
+        {
+            "confidence": 0.9994576573371887,
+            "name": "monitor"
+        },
+        {
+            "confidence": 0.9884489178657532,
+            "name": "wall"
+        },
+        {
+            "confidence": 0.9657922983169556,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.9368694424629211,
+            "name": "screen"
+        },
+        {
+            "confidence": 0.9350398182868958,
+            "name": "television"
+        },
+        {
+            "confidence": 0.8655877113342285,
+            "name": "electronics"
+        },
+        {
+            "confidence": 0.7258120179176331,
+            "name": "flat"
+        },
+        {
+            "confidence": 0.6154744625091553,
+            "name": "display"
+        },
+        {
+            "confidence": 0.31169822812080383,
+            "name": "computer"
+        },
+        {
+            "confidence": 0.28705108165740967,
+            "name": "desktop"
+        }
+    ]
+}

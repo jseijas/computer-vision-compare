@@ -1,0 +1,71 @@
+{
+    "adult": {
+        "adultScore": 0.02085091546177864,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.038166843354701996
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.98046875
+        }
+    ],
+    "color": {
+        "accentColor": "1F5F98",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White",
+            "Black"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.6188805880845702,
+                "text": "a black phone on a table"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "black",
+            "table",
+            "sitting",
+            "small",
+            "keyboard",
+            "desk",
+            "white",
+            "computer",
+            "top",
+            "phone",
+            "holding",
+            "mouse",
+            "cellphone",
+            "laying"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 360
+    },
+    "requestId": "c469b687-cbfe-48d3-bea5-078b045a5c8c",
+    "response_time": 3.457345724105835,
+    "tags": [
+        {
+            "confidence": 0.9454160928726196,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.7218228578567505,
+            "name": "black"
+        }
+    ]
+}

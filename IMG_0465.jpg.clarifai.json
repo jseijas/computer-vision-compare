@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2017-08-24T12:04:54.600105274Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_wtlv5WpP",
+                        "name": "guitar",
+                        "value": 0.9993453
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_ZssXw3dj",
+                        "name": "instrument",
+                        "value": 0.9991094
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_k76BrtPJ",
+                        "name": "music",
+                        "value": 0.99798423
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_1RlRvXP2",
+                        "name": "acoustic",
+                        "value": 0.9946637
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_7w4WJMw5",
+                        "name": "sound",
+                        "value": 0.99391353
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_7TgLw5dV",
+                        "name": "bowed stringed instrument",
+                        "value": 0.9938072
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_zFnPQdgB",
+                        "name": "wood",
+                        "value": 0.9911289
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_gtJ0C94q",
+                        "name": "pop music",
+                        "value": 0.98103
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_786Zr311",
+                        "name": "no person",
+                        "value": 0.9808537
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_S81BZrtF",
+                        "name": "musician",
+                        "value": 0.9769224
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_9MHSc8T5",
+                        "name": "classic",
+                        "value": 0.9740076
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_BhZH1hDD",
+                        "name": "jazz",
+                        "value": 0.96180326
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_9FZLxTbq",
+                        "name": "song",
+                        "value": 0.96136886
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_GzNlpxwb",
+                        "name": "equipment",
+                        "value": 0.95651984
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_zRCQgtxH",
+                        "name": "acoustic guitar",
+                        "value": 0.95405406
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_d7Khmhzh",
+                        "name": "play",
+                        "value": 0.9429415
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_1p2zMmqb",
+                        "name": "retro",
+                        "value": 0.94040066
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_mhzKd0wd",
+                        "name": "participate",
+                        "value": 0.9351648
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_r8gdQ9NM",
+                        "name": "neck",
+                        "value": 0.932775
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Knf4kjCC",
+                        "name": "audio",
+                        "value": 0.9191736
+                    }
+                ]
+            },
+            "id": "d0728bb16bb043e0bd82603a8c60867b",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "true",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img2/prod/small/d89d07d71d084afe80925d70ebff9d75/d3ae71ec413a47bcb1ba7afd6d979dea"
+                    }
+                },
+                "id": "d92e8b5078f34e889ab70c8c39c146ff"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 5.505255937576294,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

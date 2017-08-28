@@ -1,0 +1,30 @@
+{
+    "response_time": 4.44344425201416,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "product design",
+                    "mid": "/m/03y18t",
+                    "score": 0.6460152
+                },
+                {
+                    "description": "electronic instrument",
+                    "mid": "/m/0121tl",
+                    "score": 0.51417863
+                },
+                {
+                    "description": "mechanical fan",
+                    "mid": "/m/02x984l",
+                    "score": 0.51234436
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "refrigerator",
+                            "score": 0.91,
+                            "type_hierarchy": "/appliance/refrigerator"
+                        },
+                        {
+                            "class": "appliance",
+                            "score": 0.911
+                        },
+                        {
+                            "class": "Utility Room",
+                            "score": 0.526,
+                            "type_hierarchy": "/room/Utility Room"
+                        },
+                        {
+                            "class": "room",
+                            "score": 0.527
+                        },
+                        {
+                            "class": "electric refrigerator",
+                            "score": 0.523,
+                            "type_hierarchy": "/appliance/refrigerator/electric refrigerator"
+                        },
+                        {
+                            "class": "elevator",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "gray color",
+                            "score": 0.92
+                        },
+                        {
+                            "class": "ash grey color",
+                            "score": 0.841
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": ""
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.4350452423095703
+}

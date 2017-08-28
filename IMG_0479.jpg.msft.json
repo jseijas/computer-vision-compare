@@ -1,0 +1,95 @@
+{
+    "adult": {
+        "adultScore": 0.007009506691247225,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.014372728765010834
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.21484375
+        },
+        {
+            "name": "people_portrait",
+            "score": 0.6015625
+        }
+    ],
+    "color": {
+        "accentColor": "366395",
+        "dominantColorBackground": "Brown",
+        "dominantColorForeground": "Black",
+        "dominantColors": [],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8970962412533708,
+                "text": "a pair of sunglasses on a table"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "table",
+            "sitting",
+            "wooden",
+            "sunglasses",
+            "wood",
+            "small",
+            "top",
+            "black",
+            "desk",
+            "laying",
+            "pair",
+            "mouse",
+            "silver",
+            "cat",
+            "white",
+            "computer",
+            "room"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 360
+    },
+    "requestId": "4d937828-134f-45cf-a197-7d56aa784227",
+    "response_time": 2.905290365219116,
+    "tags": [
+        {
+            "confidence": 0.9804906249046326,
+            "name": "floor"
+        },
+        {
+            "confidence": 0.9105602502822876,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.6641236543655396,
+            "name": "wooden"
+        },
+        {
+            "confidence": 0.5572080016136169,
+            "name": "spectacles"
+        },
+        {
+            "confidence": 0.48457345366477966,
+            "name": "accessory"
+        },
+        {
+            "confidence": 0.3717465400695801,
+            "name": "sunglasses"
+        },
+        {
+            "confidence": 0.30320078134536743,
+            "name": "wood"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "response_time": 3.793379068374634,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "electronic device",
+                    "mid": "/m/0bs7_0t",
+                    "score": 0.8161123
+                },
+                {
+                    "description": "technology",
+                    "mid": "/m/07c1v",
+                    "score": 0.80279964
+                },
+                {
+                    "description": "product design",
+                    "mid": "/m/03y18t",
+                    "score": 0.6159643
+                },
+                {
+                    "description": "electronics",
+                    "mid": "/m/02mrp",
+                    "score": 0.60724354
+                },
+                {
+                    "description": "audio equipment",
+                    "mid": "/m/01yttv",
+                    "score": 0.5546072
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

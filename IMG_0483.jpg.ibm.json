@@ -1,0 +1,74 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "flat panel display",
+                            "score": 0.639,
+                            "type_hierarchy": "/electronic device/video display/flat panel display"
+                        },
+                        {
+                            "class": "video display",
+                            "score": 0.725
+                        },
+                        {
+                            "class": "electronic device",
+                            "score": 0.726
+                        },
+                        {
+                            "class": "videodisk",
+                            "score": 0.539,
+                            "type_hierarchy": "/memory device/videodisk"
+                        },
+                        {
+                            "class": "memory device",
+                            "score": 0.548
+                        },
+                        {
+                            "class": "book",
+                            "score": 0.513
+                        },
+                        {
+                            "class": "videocassette",
+                            "score": 0.511
+                        },
+                        {
+                            "class": "touch screen",
+                            "score": 0.5,
+                            "type_hierarchy": "/electronic device/video display/touch screen"
+                        },
+                        {
+                            "class": "high-definition television",
+                            "score": 0.5,
+                            "type_hierarchy": "/telecommunication/broadcasting/television/high-definition television"
+                        },
+                        {
+                            "class": "television",
+                            "score": 0.523
+                        },
+                        {
+                            "class": "broadcasting",
+                            "score": 0.523
+                        },
+                        {
+                            "class": "telecommunication",
+                            "score": 0.524
+                        },
+                        {
+                            "class": "olive color",
+                            "score": 0.706
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": ""
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.5090844631195068
+}

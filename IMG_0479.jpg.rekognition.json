@@ -1,0 +1,37 @@
+{
+    "Labels": [
+        {
+            "Confidence": 93.22039031982422,
+            "Name": "Cutlery"
+        },
+        {
+            "Confidence": 93.22039031982422,
+            "Name": "Spoon"
+        },
+        {
+            "Confidence": 66.70728302001953,
+            "Name": "Glasses"
+        },
+        {
+            "Confidence": 66.70728302001953,
+            "Name": "Goggles"
+        },
+        {
+            "Confidence": 66.70728302001953,
+            "Name": "Sunglasses"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "263",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 24 Aug 2017 12:08:57 GMT",
+            "x-amzn-requestid": "013821b2-88c5-11e7-8612-f5c6fe1bffb8"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "013821b2-88c5-11e7-8612-f5c6fe1bffb8",
+        "RetryAttempts": 0
+    },
+    "response_time": 0.9750974178314209
+}

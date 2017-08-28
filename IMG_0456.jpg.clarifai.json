@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2017-08-24T12:02:56.586720184Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_Pf2b7clG",
+                        "name": "indoors",
+                        "value": 0.9795779
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_6lhccv44",
+                        "name": "business",
+                        "value": 0.97562766
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_786Zr311",
+                        "name": "no person",
+                        "value": 0.9714074
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_l8TKp2h5",
+                        "name": "people",
+                        "value": 0.96151817
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_SVshtN54",
+                        "name": "one",
+                        "value": 0.94548583
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_pCnxWJZh",
+                        "name": "contemporary",
+                        "value": 0.9082409
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_VPmHr5bm",
+                        "name": "adult",
+                        "value": 0.9067162
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_dxSG2s86",
+                        "name": "man",
+                        "value": 0.90042406
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_7WNVdPhm",
+                        "name": "competition",
+                        "value": 0.8990857
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Hq72S9X5",
+                        "name": "election",
+                        "value": 0.88897943
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_fKppxwrj",
+                        "name": "soccer",
+                        "value": 0.8840064
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_BrnHNkt0",
+                        "name": "coffee",
+                        "value": 0.86154103
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_RQccV41p",
+                        "name": "woman",
+                        "value": 0.83563995
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_62K34TR4",
+                        "name": "technology",
+                        "value": 0.83172256
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_pPxqdnP5",
+                        "name": "room",
+                        "value": 0.822073
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_v61Q6FTg",
+                        "name": "banking",
+                        "value": 0.8211291
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_K1ntqFzK",
+                        "name": "security",
+                        "value": 0.8142922
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_CXnDXkLz",
+                        "name": "money",
+                        "value": 0.80524504
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_H6MK6dlj",
+                        "name": "commerce",
+                        "value": 0.7987617
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_4dB4Dh6F",
+                        "name": "offense",
+                        "value": 0.7982865
+                    }
+                ]
+            },
+            "id": "d5ea04ee9d9643d9bde62158dee9aa96",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "true",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img2/prod/small/d89d07d71d084afe80925d70ebff9d75/abfcb920b75a485ea79cfd66b01cac4a"
+                    }
+                },
+                "id": "c948b125ca3a4af58507ecc58e57bbc3"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 5.709570646286011,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

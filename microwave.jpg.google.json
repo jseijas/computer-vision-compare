@@ -1,0 +1,45 @@
+{
+    "response_time": 4.5233681201934814,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "product design",
+                    "mid": "/m/03y18t",
+                    "score": 0.6823227
+                },
+                {
+                    "description": "technology",
+                    "mid": "/m/07c1v",
+                    "score": 0.67842865
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/01jwgf",
+                    "score": 0.61103284
+                },
+                {
+                    "description": "table",
+                    "mid": "/m/04bcr3",
+                    "score": 0.5999672
+                },
+                {
+                    "description": "electronics",
+                    "mid": "/m/02mrp",
+                    "score": 0.596353
+                },
+                {
+                    "description": "furniture",
+                    "mid": "/m/0c_jw",
+                    "score": 0.5131759
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

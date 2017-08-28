@@ -1,0 +1,33 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.30052185058594,
+            "Name": "Glasses"
+        },
+        {
+            "Confidence": 99.30052185058594,
+            "Name": "Goggles"
+        },
+        {
+            "Confidence": 58.3191032409668,
+            "Name": "Accessories"
+        },
+        {
+            "Confidence": 50.98701858520508,
+            "Name": "Sunglasses"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "218",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 24 Aug 2017 12:11:20 GMT",
+            "x-amzn-requestid": "56254fb9-88c5-11e7-8c28-db9c1dc8d652"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "56254fb9-88c5-11e7-8c28-db9c1dc8d652",
+        "RetryAttempts": 0
+    },
+    "response_time": 1.088108777999878
+}

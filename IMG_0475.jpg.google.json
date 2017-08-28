@@ -1,0 +1,65 @@
+{
+    "response_time": 1.2661266326904297,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "white",
+                    "mid": "/m/083jv",
+                    "score": 0.9597443
+                },
+                {
+                    "description": "sleeve",
+                    "mid": "/m/062581",
+                    "score": 0.9214185
+                },
+                {
+                    "description": "shirt",
+                    "mid": "/m/01n4qj",
+                    "score": 0.85879797
+                },
+                {
+                    "description": "dress shirt",
+                    "mid": "/m/06hwcd",
+                    "score": 0.8501074
+                },
+                {
+                    "description": "blouse",
+                    "mid": "/m/02sb4j",
+                    "score": 0.82105803
+                },
+                {
+                    "description": "outerwear",
+                    "mid": "/m/047vlmn",
+                    "score": 0.72481567
+                },
+                {
+                    "description": "textile",
+                    "mid": "/m/0dnr7",
+                    "score": 0.71549875
+                },
+                {
+                    "description": "top",
+                    "mid": "/m/0h8krv8",
+                    "score": 0.6752951
+                },
+                {
+                    "description": "collar",
+                    "mid": "/m/091410",
+                    "score": 0.6338945
+                },
+                {
+                    "description": "beige",
+                    "mid": "/m/03hzcs",
+                    "score": 0.5555381
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

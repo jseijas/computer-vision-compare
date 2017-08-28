@@ -1,0 +1,76 @@
+{
+    "adult": {
+        "adultScore": 0.04723948612809181,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.02891833521425724
+    },
+    "categories": [
+        {
+            "name": "abstract_shape",
+            "score": 0.1875
+        },
+        {
+            "name": "others_",
+            "score": 0.171875
+        }
+    ],
+    "color": {
+        "accentColor": "1B77B0",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.3105933510619922,
+                "text": "a black computer mouse on a table"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "table",
+            "sitting",
+            "top",
+            "black",
+            "computer",
+            "cake",
+            "keyboard",
+            "small",
+            "mouse",
+            "desk",
+            "white",
+            "laying"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 4032,
+        "width": 3024
+    },
+    "requestId": "92acce94-a1bc-4825-b15e-090f4c9a2b57",
+    "response_time": 14.25142502784729,
+    "tags": [
+        {
+            "confidence": 0.9562227129936218,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.5770095586776733,
+            "name": "device"
+        },
+        {
+            "confidence": 0.5546949505805969,
+            "name": "fan"
+        }
+    ]
+}

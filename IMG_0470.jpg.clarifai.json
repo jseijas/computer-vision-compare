@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2017-08-24T12:06:09.413685584Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_4fWZ4LdH",
+                        "name": "kitchenware",
+                        "value": 0.9947462
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_cXSwCBJP",
+                        "name": "home appliance",
+                        "value": 0.9924176
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_786Zr311",
+                        "name": "no person",
+                        "value": 0.98738694
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_j09mzT6j",
+                        "name": "family",
+                        "value": 0.9725325
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_XdwTxJz3",
+                        "name": "steel",
+                        "value": 0.9678197
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_dGZlZDf7",
+                        "name": "blender",
+                        "value": 0.96428764
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_TkWkj1sX",
+                        "name": "container",
+                        "value": 0.9574045
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_GzNlpxwb",
+                        "name": "equipment",
+                        "value": 0.9547098
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_HDcHrx7r",
+                        "name": "stainless steel",
+                        "value": 0.9540164
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_KXNqVd5F",
+                        "name": "cooking",
+                        "value": 0.94358724
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_3PlgVmlN",
+                        "name": "food",
+                        "value": 0.9408697
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_f6ZJXjXq",
+                        "name": "cup",
+                        "value": 0.93710154
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_zJx6RbxW",
+                        "name": "drink",
+                        "value": 0.9363348
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_mrWb5vrZ",
+                        "name": "hot",
+                        "value": 0.9338155
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_92z7j7Vc",
+                        "name": "machine",
+                        "value": 0.93381464
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Pf2b7clG",
+                        "name": "indoors",
+                        "value": 0.92046535
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_jndGLmtl",
+                        "name": "manufacturer",
+                        "value": 0.9181534
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_P2ktCFHk",
+                        "name": "plastic",
+                        "value": 0.9174632
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_BrnHNkt0",
+                        "name": "coffee",
+                        "value": 0.911305
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_C3sXn10x",
+                        "name": "heat",
+                        "value": 0.910061
+                    }
+                ]
+            },
+            "id": "ee06f3259de2494b9eb4210e14971156",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "true",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img2/prod/small/d89d07d71d084afe80925d70ebff9d75/fa95c062941b4f638c0e02b1e0c402cf"
+                    }
+                },
+                "id": "a8f29983c3694f8d801ab4410c722480"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 5.191142320632935,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

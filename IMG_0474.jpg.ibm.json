@@ -1,0 +1,60 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "portfolio",
+                            "score": 0.68
+                        },
+                        {
+                            "class": "portable computer",
+                            "score": 0.524,
+                            "type_hierarchy": "/machine/computer/digital computer/personal computer/portable computer"
+                        },
+                        {
+                            "class": "personal computer",
+                            "score": 0.524
+                        },
+                        {
+                            "class": "digital computer",
+                            "score": 0.525
+                        },
+                        {
+                            "class": "computer",
+                            "score": 0.529
+                        },
+                        {
+                            "class": "machine",
+                            "score": 0.529
+                        },
+                        {
+                            "class": "folder",
+                            "score": 0.504
+                        },
+                        {
+                            "class": "external drive",
+                            "score": 0.5,
+                            "type_hierarchy": "/drive/external drive"
+                        },
+                        {
+                            "class": "drive",
+                            "score": 0.502
+                        },
+                        {
+                            "class": "charcoal color",
+                            "score": 1.0
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": ""
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 2.1652164459228516
+}

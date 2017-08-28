@@ -1,0 +1,25 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.08965301513672,
+            "Name": "Wristwatch"
+        },
+        {
+            "Confidence": 86.26824188232422,
+            "Name": "Digital Watch"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "121",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 24 Aug 2017 12:04:57 GMT",
+            "x-amzn-requestid": "71efd548-88c4-11e7-98db-c5dd549cb7ce"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "71efd548-88c4-11e7-98db-c5dd549cb7ce",
+        "RetryAttempts": 0
+    },
+    "response_time": 1.2270715236663818
+}

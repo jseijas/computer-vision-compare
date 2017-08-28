@@ -1,0 +1,43 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "person",
+                            "score": 0.973
+                        },
+                        {
+                            "class": "frame",
+                            "score": 0.5,
+                            "type_hierarchy": "/supporting structure/framework/frame"
+                        },
+                        {
+                            "class": "framework",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "supporting structure",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "light brown color",
+                            "score": 0.641
+                        },
+                        {
+                            "class": "ash grey color",
+                            "score": 0.625
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": ""
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.0981099605560303
+}

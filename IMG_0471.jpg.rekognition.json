@@ -1,0 +1,37 @@
+{
+    "Labels": [
+        {
+            "Confidence": 63.63872146606445,
+            "Name": "Appliance"
+        },
+        {
+            "Confidence": 63.63872146606445,
+            "Name": "Microwave"
+        },
+        {
+            "Confidence": 63.63872146606445,
+            "Name": "Oven"
+        },
+        {
+            "Confidence": 53.66289138793945,
+            "Name": "Cd Player"
+        },
+        {
+            "Confidence": 53.66289138793945,
+            "Name": "Electronics"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "269",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 24 Aug 2017 12:06:11 GMT",
+            "x-amzn-requestid": "9e557efb-88c4-11e7-ae00-531d477eb54a"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "9e557efb-88c4-11e7-ae00-531d477eb54a",
+        "RetryAttempts": 0
+    },
+    "response_time": 1.2361180782318115
+}

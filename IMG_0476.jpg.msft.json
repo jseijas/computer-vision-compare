@@ -1,0 +1,85 @@
+{
+    "adult": {
+        "adultScore": 0.0760539248585701,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.05931457504630089
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.00390625
+        },
+        {
+            "name": "object_sculpture",
+            "score": 0.703125
+        }
+    ],
+    "color": {
+        "accentColor": "887443",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "White",
+            "Grey"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8745826305236503,
+                "text": "a man standing in front of a coat"
+            }
+        ],
+        "tags": [
+            "clothing",
+            "person",
+            "man",
+            "standing",
+            "coat",
+            "suit",
+            "wearing",
+            "jacket",
+            "holding",
+            "field",
+            "posing",
+            "walking",
+            "woman",
+            "snow",
+            "hat",
+            "white",
+            "covered",
+            "old",
+            "suitcase",
+            "young",
+            "slope"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 360
+    },
+    "requestId": "e9abaf03-be3e-476f-ad96-6ef823bfe303",
+    "response_time": 3.66216778755188,
+    "tags": [
+        {
+            "confidence": 0.9812430739402771,
+            "name": "clothing"
+        },
+        {
+            "confidence": 0.8988698720932007,
+            "name": "person"
+        },
+        {
+            "confidence": 0.6714767813682556,
+            "name": "coat"
+        }
+    ]
+}

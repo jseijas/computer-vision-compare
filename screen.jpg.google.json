@@ -1,0 +1,65 @@
+{
+    "response_time": 3.7793779373168945,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "technology",
+                    "mid": "/m/07c1v",
+                    "score": 0.90113896
+                },
+                {
+                    "description": "electronic device",
+                    "mid": "/m/0bs7_0t",
+                    "score": 0.88445514
+                },
+                {
+                    "description": "electronics",
+                    "mid": "/m/02mrp",
+                    "score": 0.78345406
+                },
+                {
+                    "description": "display device",
+                    "mid": "/m/029zz6",
+                    "score": 0.76541346
+                },
+                {
+                    "description": "laptop",
+                    "mid": "/m/01c648",
+                    "score": 0.7486772
+                },
+                {
+                    "description": "personal computer hardware",
+                    "mid": "/m/0j24d_1",
+                    "score": 0.7164133
+                },
+                {
+                    "description": "personal computer",
+                    "mid": "/m/0643t",
+                    "score": 0.70479685
+                },
+                {
+                    "description": "computer monitor",
+                    "mid": "/m/02522",
+                    "score": 0.65511876
+                },
+                {
+                    "description": "gadget",
+                    "mid": "/m/02mf1n",
+                    "score": 0.64887863
+                },
+                {
+                    "description": "product design",
+                    "mid": "/m/03y18t",
+                    "score": 0.628852
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

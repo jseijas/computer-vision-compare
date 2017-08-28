@@ -1,0 +1,60 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "blouse",
+                            "score": 0.711
+                        },
+                        {
+                            "class": "guimpe dress",
+                            "score": 0.556
+                        },
+                        {
+                            "class": "shirt",
+                            "score": 0.516,
+                            "type_hierarchy": "/garment/shirt"
+                        },
+                        {
+                            "class": "garment",
+                            "score": 0.634
+                        },
+                        {
+                            "class": "sack",
+                            "score": 0.511,
+                            "type_hierarchy": "/garment/overgarment/coat/sack"
+                        },
+                        {
+                            "class": "coat",
+                            "score": 0.518
+                        },
+                        {
+                            "class": "overgarment",
+                            "score": 0.526
+                        },
+                        {
+                            "class": "jabot (ruffle of dress)",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "ivory color",
+                            "score": 0.959
+                        },
+                        {
+                            "class": "pale yellow color",
+                            "score": 0.825
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": ""
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.5591561794281006
+}

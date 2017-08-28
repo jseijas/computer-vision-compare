@@ -1,0 +1,92 @@
+{
+    "adult": {
+        "adultScore": 0.04999346658587456,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.03518863394856453
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.00390625
+        },
+        {
+            "name": "object_screen",
+            "score": 0.87890625
+        }
+    ],
+    "color": {
+        "accentColor": "AE911D",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Black",
+            "White"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.3643413342793889,
+                "text": "a microwave is sitting on a counter"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "electronics",
+            "monitor",
+            "table",
+            "sitting",
+            "top",
+            "computer",
+            "microwave",
+            "counter",
+            "oven",
+            "kitchen",
+            "white",
+            "desk",
+            "laptop",
+            "small",
+            "standing",
+            "room",
+            "stove",
+            "plate",
+            "laying"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 360
+    },
+    "requestId": "7d1336fd-933a-444a-9d53-191720f94eeb",
+    "response_time": 2.2142062187194824,
+    "tags": [
+        {
+            "confidence": 0.9766713976860046,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.9575653672218323,
+            "name": "wall"
+        },
+        {
+            "confidence": 0.8568392395973206,
+            "name": "electronics"
+        },
+        {
+            "confidence": 0.5382614135742188,
+            "name": "display"
+        },
+        {
+            "confidence": 0.4689631164073944,
+            "name": "computer"
+        }
+    ]
+}

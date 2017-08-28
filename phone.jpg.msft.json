@@ -1,0 +1,75 @@
+{
+    "adult": {
+        "adultScore": 0.013311787508428097,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.06225861981511116
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.6171875
+        }
+    ],
+    "color": {
+        "accentColor": "946C37",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.776757859169121,
+                "text": "a cellphone on a table"
+            }
+        ],
+        "tags": [
+            "table",
+            "indoor",
+            "sitting",
+            "keyboard",
+            "cellphone",
+            "desk",
+            "top",
+            "computer",
+            "black",
+            "phone",
+            "wooden",
+            "mouse",
+            "water",
+            "old",
+            "laying",
+            "white"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 4032,
+        "width": 3024
+    },
+    "requestId": "7e7e1628-717d-44ac-b383-da30ca5dd36c",
+    "response_time": 13.89307713508606,
+    "tags": [
+        {
+            "confidence": 0.9870421886444092,
+            "name": "table"
+        },
+        {
+            "confidence": 0.9458611607551575,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.7216424942016602,
+            "name": "electronics"
+        }
+    ]
+}

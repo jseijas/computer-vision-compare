@@ -1,0 +1,116 @@
+{
+    "adult": {
+        "adultScore": 0.027155550196766853,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.0186904389411211
+    },
+    "categories": [
+        {
+            "name": "abstract_",
+            "score": 0.0078125
+        },
+        {
+            "name": "others_",
+            "score": 0.14453125
+        },
+        {
+            "name": "outdoor_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "796A52",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.4785579972070214,
+                "text": "a microwave oven above a refrigerator"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "cabinet",
+            "oven",
+            "kitchen",
+            "stove",
+            "microwave",
+            "refrigerator",
+            "sitting",
+            "dishwasher",
+            "top",
+            "white",
+            "small",
+            "counter",
+            "food",
+            "steel",
+            "stainless",
+            "black",
+            "silver",
+            "sink",
+            "standing"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 360
+    },
+    "requestId": "8ba597b2-3b39-400c-9cbd-e5a46544b5e0",
+    "response_time": 2.8312830924987793,
+    "tags": [
+        {
+            "confidence": 0.99610835313797,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.9807351231575012,
+            "name": "floor"
+        },
+        {
+            "confidence": 0.8805028796195984,
+            "name": "oven"
+        },
+        {
+            "confidence": 0.8638958930969238,
+            "name": "kitchen"
+        },
+        {
+            "confidence": 0.8521271347999573,
+            "name": "stove"
+        },
+        {
+            "confidence": 0.700492799282074,
+            "name": "microwave"
+        },
+        {
+            "confidence": 0.2999730110168457,
+            "name": "kitchen appliance"
+        },
+        {
+            "confidence": 0.2734706401824951,
+            "name": "steel"
+        },
+        {
+            "confidence": 0.26911985874176025,
+            "name": "stainless"
+        },
+        {
+            "confidence": 0.23414312303066254,
+            "hint": "animal",
+            "name": "appliance"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "adult": {
+        "adultScore": 0.272386759519577,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.27487653493881226
+    },
+    "categories": [
+        {
+            "name": "abstract_nonphoto",
+            "score": 0.37109375
+        },
+        {
+            "name": "abstract_shape",
+            "score": 0.1953125
+        },
+        {
+            "name": "others_",
+            "score": 0.1875
+        }
+    ],
+    "color": {
+        "accentColor": "746257",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White"
+        ],
+        "isBWImg": true
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7028691895517563,
+                "text": "a close up of a pair of glasses on a table"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "thing",
+            "sitting",
+            "table",
+            "white",
+            "pair",
+            "top",
+            "hanging",
+            "close",
+            "black",
+            "desk",
+            "mirror",
+            "laying",
+            "computer",
+            "mouse",
+            "water",
+            "room"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 360
+    },
+    "requestId": "b0a01a07-0f4e-4248-ad09-569f054c78c3",
+    "response_time": 3.279327869415283,
+    "tags": [
+        {
+            "confidence": 0.9650700688362122,
+            "name": "indoor"
+        }
+    ]
+}

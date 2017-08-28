@@ -1,0 +1,61 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "blender",
+                            "score": 0.842,
+                            "type_hierarchy": "/utensil/blender"
+                        },
+                        {
+                            "class": "utensil",
+                            "score": 0.843
+                        },
+                        {
+                            "class": "coffee mill",
+                            "score": 0.713,
+                            "type_hierarchy": "/machine/machinery/grinder/coffee mill"
+                        },
+                        {
+                            "class": "grinder",
+                            "score": 0.716
+                        },
+                        {
+                            "class": "machinery",
+                            "score": 0.716
+                        },
+                        {
+                            "class": "machine",
+                            "score": 0.717
+                        },
+                        {
+                            "class": "coffee maker",
+                            "score": 0.5,
+                            "type_hierarchy": "/appliance/coffee maker"
+                        },
+                        {
+                            "class": "appliance",
+                            "score": 0.507
+                        },
+                        {
+                            "class": "gray color",
+                            "score": 0.913
+                        },
+                        {
+                            "class": "charcoal color",
+                            "score": 0.745
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": ""
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.3150930404663086
+}

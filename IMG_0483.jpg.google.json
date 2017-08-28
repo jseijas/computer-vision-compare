@@ -1,0 +1,77 @@
+{
+    "response_time": 1.3011298179626465,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "electronic device",
+                    "mid": "/m/0bs7_0t",
+                    "score": 0.91011184
+                },
+                {
+                    "description": "technology",
+                    "mid": "/m/07c1v",
+                    "score": 0.907351
+                },
+                {
+                    "description": "playstation 2",
+                    "mid": "/m/066kp",
+                    "score": 0.87424886
+                },
+                {
+                    "description": "gadget",
+                    "mid": "/m/02mf1n",
+                    "score": 0.78318554
+                },
+                {
+                    "description": "video game console",
+                    "mid": "/m/07_tb",
+                    "score": 0.6371734
+                },
+                {
+                    "description": "multimedia",
+                    "mid": "/m/0541p",
+                    "score": 0.55774415
+                },
+                {
+                    "description": "electronics",
+                    "mid": "/m/02mrp",
+                    "score": 0.5267179
+                }
+            ],
+            "logoAnnotations": [
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 46,
+                                "y": 32
+                            },
+                            {
+                                "x": 202,
+                                "y": 32
+                            },
+                            {
+                                "x": 202,
+                                "y": 50
+                            },
+                            {
+                                "x": 46,
+                                "y": 50
+                            }
+                        ]
+                    },
+                    "description": "PlayStation",
+                    "mid": "/m/03c3vj4",
+                    "score": 0.4947093
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "adult": {
+        "adultScore": 0.020197821781039238,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.014579718001186848
+    },
+    "categories": [
+        {
+            "name": "indoor_doorwindows",
+            "score": 0.45703125
+        },
+        {
+            "name": "others_",
+            "score": 0.2265625
+        }
+    ],
+    "color": {
+        "accentColor": "496C82",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "White"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.6611372918910275,
+                "text": "a white refrigerator freezer sitting inside of a kitchen"
+            }
+        ],
+        "tags": [
+            "cabinet",
+            "refrigerator",
+            "indoor",
+            "kitchen",
+            "sitting",
+            "door",
+            "white",
+            "top",
+            "open",
+            "steel",
+            "stainless",
+            "microwave",
+            "stove",
+            "standing",
+            "oven",
+            "sink",
+            "room",
+            "man"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 360
+    },
+    "requestId": "d25394e3-c35c-410b-8138-7eaa25fae644",
+    "response_time": 2.9140937328338623,
+    "tags": [
+        {
+            "confidence": 0.9979245662689209,
+            "name": "cabinet"
+        },
+        {
+            "confidence": 0.9978175163269043,
+            "name": "refrigerator"
+        },
+        {
+            "confidence": 0.9955440163612366,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.9583713412284851,
+            "name": "kitchen"
+        },
+        {
+            "confidence": 0.787019670009613,
+            "hint": "animal",
+            "name": "appliance"
+        },
+        {
+            "confidence": 0.7125131487846375,
+            "name": "white goods"
+        },
+        {
+            "confidence": 0.5820323824882507,
+            "name": "door"
+        },
+        {
+            "confidence": 0.20446006953716278,
+            "name": "kitchen appliance"
+        }
+    ]
+}

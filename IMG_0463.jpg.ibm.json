@@ -1,0 +1,48 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "shoebox",
+                            "score": 0.67,
+                            "type_hierarchy": "/box/shoebox"
+                        },
+                        {
+                            "class": "box",
+                            "score": 0.689
+                        },
+                        {
+                            "class": "file folder",
+                            "score": 0.549
+                        },
+                        {
+                            "class": "whetstone",
+                            "score": 0.517
+                        },
+                        {
+                            "class": "ring-binder",
+                            "score": 0.5,
+                            "type_hierarchy": "/protective covering/ring-binder"
+                        },
+                        {
+                            "class": "protective covering",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "charcoal color",
+                            "score": 0.992
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": ""
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.5040595531463623
+}

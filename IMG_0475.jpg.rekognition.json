@@ -1,0 +1,49 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.99903869628906,
+            "Name": "Blouse"
+        },
+        {
+            "Confidence": 98.99903869628906,
+            "Name": "Clothing"
+        },
+        {
+            "Confidence": 51.651676177978516,
+            "Name": "Applique"
+        },
+        {
+            "Confidence": 51.651676177978516,
+            "Name": "Sewing"
+        },
+        {
+            "Confidence": 51.471824645996094,
+            "Name": "Bowl"
+        },
+        {
+            "Confidence": 50.640010833740234,
+            "Name": "Apparel"
+        },
+        {
+            "Confidence": 50.57429504394531,
+            "Name": "Dress Shirt"
+        },
+        {
+            "Confidence": 50.57429504394531,
+            "Name": "Shirt"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "415",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 24 Aug 2017 12:07:20 GMT",
+            "x-amzn-requestid": "c7957e68-88c4-11e7-af12-4bd57994fea0"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "c7957e68-88c4-11e7-af12-4bd57994fea0",
+        "RetryAttempts": 0
+    },
+    "response_time": 1.1221120357513428
+}

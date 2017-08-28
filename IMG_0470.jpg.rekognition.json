@@ -1,0 +1,53 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.78243255615234,
+            "Name": "Blender"
+        },
+        {
+            "Confidence": 98.78243255615234,
+            "Name": "Mixer"
+        },
+        {
+            "Confidence": 98.5732650756836,
+            "Name": "Sink"
+        },
+        {
+            "Confidence": 86.91716003417969,
+            "Name": "Toilet"
+        },
+        {
+            "Confidence": 51.12690734863281,
+            "Name": "Glasses"
+        },
+        {
+            "Confidence": 51.12690734863281,
+            "Name": "Goggles"
+        },
+        {
+            "Confidence": 51.12690734863281,
+            "Name": "Sunglasses"
+        },
+        {
+            "Confidence": 50.7786979675293,
+            "Name": "Beverage"
+        },
+        {
+            "Confidence": 50.7786979675293,
+            "Name": "Drink"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "455",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 24 Aug 2017 12:05:47 GMT",
+            "x-amzn-requestid": "8ff00a56-88c4-11e7-8a15-4d310521c5f7"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "8ff00a56-88c4-11e7-8a15-4d310521c5f7",
+        "RetryAttempts": 0
+    },
+    "response_time": 4.133413553237915
+}

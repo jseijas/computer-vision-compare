@@ -1,0 +1,95 @@
+{
+    "adult": {
+        "adultScore": 0.031686875969171524,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.06282974779605865
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.16796875
+        }
+    ],
+    "color": {
+        "accentColor": "AB4520",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Orange",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.6569019755979199,
+                "text": "a chair sitting in front of a computer"
+            }
+        ],
+        "tags": [
+            "floor",
+            "indoor",
+            "desk",
+            "computer",
+            "chair",
+            "furniture",
+            "table",
+            "sitting",
+            "office",
+            "room",
+            "keyboard",
+            "small",
+            "laptop",
+            "front",
+            "home",
+            "monitor",
+            "mouse",
+            "black",
+            "holding",
+            "red",
+            "white",
+            "living",
+            "man",
+            "standing"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 4032,
+        "width": 3024
+    },
+    "requestId": "67f2b864-52f7-4593-b250-f1863aba7687",
+    "response_time": 13.098309993743896,
+    "tags": [
+        {
+            "confidence": 0.9982627034187317,
+            "name": "floor"
+        },
+        {
+            "confidence": 0.9962712526321411,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.8578591346740723,
+            "name": "desk"
+        },
+        {
+            "confidence": 0.8256893157958984,
+            "name": "furniture"
+        },
+        {
+            "confidence": 0.6176329255104065,
+            "name": "office"
+        },
+        {
+            "confidence": 0.5355936288833618,
+            "name": "seat"
+        }
+    ]
+}

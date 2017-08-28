@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2017-08-24T12:10:09.412996088Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_xBpBSlkz",
+                        "name": "screen",
+                        "value": 0.99750054
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_6KkVGbdm",
+                        "name": "telephone",
+                        "value": 0.9903972
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_62K34TR4",
+                        "name": "technology",
+                        "value": 0.99033976
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_mBLW1Hhw",
+                        "name": "touch",
+                        "value": 0.9869196
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_M8sQ9ML9",
+                        "name": "display",
+                        "value": 0.98628783
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_786Zr311",
+                        "name": "no person",
+                        "value": 0.9792756
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_hHMzVnx2",
+                        "name": "internet",
+                        "value": 0.9757714
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_XjXrH3qf",
+                        "name": "electronics",
+                        "value": 0.96833634
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_PpTcwbdQ",
+                        "name": "computer",
+                        "value": 0.9656464
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_pPJbNBqf",
+                        "name": "connection",
+                        "value": 0.96031046
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_0qS6nzzT",
+                        "name": "wireless",
+                        "value": 0.95245165
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Hr8K2Npx",
+                        "name": "portable",
+                        "value": 0.94772315
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_W6cWt0Z2",
+                        "name": "pill",
+                        "value": 0.94535255
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_6lhccv44",
+                        "name": "business",
+                        "value": 0.94010735
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_jdqLsqcW",
+                        "name": "machinery",
+                        "value": 0.9187002
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_9kHRpGGd",
+                        "name": "data",
+                        "value": 0.91763794
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_htrS3scL",
+                        "name": "smart",
+                        "value": 0.916313
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_0xgpwDWl",
+                        "name": "monitor",
+                        "value": 0.8865434
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_LGVzMd61",
+                        "name": "appliance",
+                        "value": 0.8775759
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_GzNlpxwb",
+                        "name": "equipment",
+                        "value": 0.86684436
+                    }
+                ]
+            },
+            "id": "fd0d8da203284f06a519e552b58789f2",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "true",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img2/prod/small/d89d07d71d084afe80925d70ebff9d75/fdf13c351a104cc78fa7918ff47b545a"
+                    }
+                },
+                "id": "cee03819013a40d0975b3cc4081a33b6"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 5.208233118057251,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

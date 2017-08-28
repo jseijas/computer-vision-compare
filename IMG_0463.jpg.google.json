@@ -1,0 +1,55 @@
+{
+    "response_time": 1.2340455055236816,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "furniture",
+                    "mid": "/m/0c_jw",
+                    "score": 0.8413965
+                },
+                {
+                    "description": "electronic device",
+                    "mid": "/m/0bs7_0t",
+                    "score": 0.72048223
+                },
+                {
+                    "description": "technology",
+                    "mid": "/m/07c1v",
+                    "score": 0.71309555
+                },
+                {
+                    "description": "product design",
+                    "mid": "/m/03y18t",
+                    "score": 0.67618823
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/01jwgf",
+                    "score": 0.65129995
+                },
+                {
+                    "description": "electronics",
+                    "mid": "/m/02mrp",
+                    "score": 0.61507267
+                },
+                {
+                    "description": "table",
+                    "mid": "/m/04bcr3",
+                    "score": 0.61192197
+                },
+                {
+                    "description": "box",
+                    "mid": "/m/025dyy",
+                    "score": 0.54934686
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "UNLIKELY",
+                "medical": "UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "response_time": 1.2860469818115234,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "technology",
+                    "mid": "/m/07c1v",
+                    "score": 0.89820737
+                },
+                {
+                    "description": "electronic device",
+                    "mid": "/m/0bs7_0t",
+                    "score": 0.79220843
+                },
+                {
+                    "description": "electronics",
+                    "mid": "/m/02mrp",
+                    "score": 0.74154013
+                },
+                {
+                    "description": "product design",
+                    "mid": "/m/03y18t",
+                    "score": 0.67364365
+                },
+                {
+                    "description": "gadget",
+                    "mid": "/m/02mf1n",
+                    "score": 0.5760201
+                },
+                {
+                    "description": "video game console",
+                    "mid": "/m/07_tb",
+                    "score": 0.5345839
+                },
+                {
+                    "description": "multimedia",
+                    "mid": "/m/0541p",
+                    "score": 0.50505286
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

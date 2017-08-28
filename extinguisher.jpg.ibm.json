@@ -1,0 +1,14 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "error": {
+                "description": "Image size limit exceeded (3566180 bytes > 2097152 bytes [2 MiB]).",
+                "error_id": "input_error"
+            },
+            "image": ""
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 6.959695816040039
+}

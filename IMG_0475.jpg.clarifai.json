@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2017-08-24T12:07:45.048385230Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_86sS08Pw",
+                        "name": "wear",
+                        "value": 0.9900266
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_dngMN46t",
+                        "name": "fashion",
+                        "value": 0.98417056
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_j6rltf8j",
+                        "name": "elegant",
+                        "value": 0.9634416
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_R34DhbJv",
+                        "name": "dress",
+                        "value": 0.9372628
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_SVshtN54",
+                        "name": "one",
+                        "value": 0.93526894
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_wZCn67qV",
+                        "name": "style",
+                        "value": 0.9318924
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_786Zr311",
+                        "name": "no person",
+                        "value": 0.9294028
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_6lhccv44",
+                        "name": "business",
+                        "value": 0.9092954
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_vbbdL5nG",
+                        "name": "garment",
+                        "value": 0.9077724
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_RSdbFzLw",
+                        "name": "silk",
+                        "value": 0.90193653
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_5B7J7fdF",
+                        "name": "model",
+                        "value": 0.89816415
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_l8TKp2h5",
+                        "name": "people",
+                        "value": 0.8907089
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Pf2b7clG",
+                        "name": "indoors",
+                        "value": 0.8892127
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_1p2zMmqb",
+                        "name": "retro",
+                        "value": 0.8872212
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_dxSG2s86",
+                        "name": "man",
+                        "value": 0.880185
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_VPmHr5bm",
+                        "name": "adult",
+                        "value": 0.87595594
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_RQccV41p",
+                        "name": "woman",
+                        "value": 0.8733659
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Lq00FggW",
+                        "name": "desktop",
+                        "value": 0.86563843
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_rxcHpHks",
+                        "name": "isolated",
+                        "value": 0.85999846
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_77LDpmPh",
+                        "name": "satin",
+                        "value": 0.85620135
+                    }
+                ]
+            },
+            "id": "cd5c70712a8241e4a50c45090e59a765",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "true",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img2/prod/small/d89d07d71d084afe80925d70ebff9d75/c6c1d8a4225f48c694e26ee56b52ec66"
+                    }
+                },
+                "id": "c3e108dd7fe44d8abd50b8f5ff20fda0"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 4.949434041976929,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

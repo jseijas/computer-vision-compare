@@ -1,0 +1,25 @@
+{
+    "Labels": [
+        {
+            "Confidence": 61.89113235473633,
+            "Name": "Electronics"
+        },
+        {
+            "Confidence": 61.89113235473633,
+            "Name": "Phone"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "114",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 24 Aug 2017 12:10:34 GMT",
+            "x-amzn-requestid": "3acb82bd-88c5-11e7-8c28-db9c1dc8d652"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "3acb82bd-88c5-11e7-8c28-db9c1dc8d652",
+        "RetryAttempts": 0
+    },
+    "response_time": 0.977097749710083
+}

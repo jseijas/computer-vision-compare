@@ -1,0 +1,55 @@
+{
+    "response_time": 1.2241225242614746,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "home appliance",
+                    "mid": "/m/019dx1",
+                    "score": 0.9214183
+                },
+                {
+                    "description": "kitchen appliance",
+                    "mid": "/m/0h99cwc",
+                    "score": 0.91953176
+                },
+                {
+                    "description": "microwave oven",
+                    "mid": "/m/0fx9l",
+                    "score": 0.847357
+                },
+                {
+                    "description": "electronics",
+                    "mid": "/m/02mrp",
+                    "score": 0.8119071
+                },
+                {
+                    "description": "major appliance",
+                    "mid": "/m/017_cz",
+                    "score": 0.7728445
+                },
+                {
+                    "description": "oven",
+                    "mid": "/m/029bxz",
+                    "score": 0.66107714
+                },
+                {
+                    "description": "kitchen",
+                    "mid": "/m/0d4wf",
+                    "score": 0.5727147
+                },
+                {
+                    "description": "kitchen stove",
+                    "mid": "/m/02wv746",
+                    "score": 0.5704735
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

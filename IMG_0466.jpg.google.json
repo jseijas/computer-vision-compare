@@ -1,0 +1,65 @@
+{
+    "response_time": 1.1550827026367188,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "watch",
+                    "mid": "/m/0gjkl",
+                    "score": 0.8707745
+                },
+                {
+                    "description": "electronic device",
+                    "mid": "/m/0bs7_0t",
+                    "score": 0.8229533
+                },
+                {
+                    "description": "hardware",
+                    "mid": "/m/03qtgkw",
+                    "score": 0.73939675
+                },
+                {
+                    "description": "technology",
+                    "mid": "/m/07c1v",
+                    "score": 0.7200971
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/01jwgf",
+                    "score": 0.67012
+                },
+                {
+                    "description": "product design",
+                    "mid": "/m/03y18t",
+                    "score": 0.619627
+                },
+                {
+                    "description": "wrist",
+                    "mid": "/m/01j48b",
+                    "score": 0.60678935
+                },
+                {
+                    "description": "electronics",
+                    "mid": "/m/02mrp",
+                    "score": 0.60338336
+                },
+                {
+                    "description": "mobile phone",
+                    "mid": "/m/050k8",
+                    "score": 0.55371344
+                },
+                {
+                    "description": "strap",
+                    "mid": "/m/04lzmz",
+                    "score": 0.50128627
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "UNLIKELY",
+                "medical": "UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

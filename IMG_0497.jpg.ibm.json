@@ -1,0 +1,78 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "touch screen",
+                            "score": 0.797,
+                            "type_hierarchy": "/electronic device/video display/touch screen"
+                        },
+                        {
+                            "class": "video display",
+                            "score": 0.804
+                        },
+                        {
+                            "class": "electronic device",
+                            "score": 0.877
+                        },
+                        {
+                            "class": "cell phone",
+                            "score": 0.527,
+                            "type_hierarchy": "/telecommunication/telephone/cell phone"
+                        },
+                        {
+                            "class": "telephone",
+                            "score": 0.533
+                        },
+                        {
+                            "class": "telecommunication",
+                            "score": 0.543
+                        },
+                        {
+                            "class": "hand-held computer",
+                            "score": 0.512,
+                            "type_hierarchy": "/machine/computer/digital computer/personal computer/portable computer/hand-held computer"
+                        },
+                        {
+                            "class": "portable computer",
+                            "score": 0.513
+                        },
+                        {
+                            "class": "personal computer",
+                            "score": 0.513
+                        },
+                        {
+                            "class": "digital computer",
+                            "score": 0.513
+                        },
+                        {
+                            "class": "computer",
+                            "score": 0.514
+                        },
+                        {
+                            "class": "machine",
+                            "score": 0.532
+                        },
+                        {
+                            "class": "personal digital assistant",
+                            "score": 0.5,
+                            "type_hierarchy": "/electronic device/personal digital assistant"
+                        },
+                        {
+                            "class": "blue color",
+                            "score": 0.982
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": ""
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.4450452327728271
+}

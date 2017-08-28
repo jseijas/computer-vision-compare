@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2017-08-24T12:11:40.691962582Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_J5tkrb20",
+                        "name": "eyewear",
+                        "value": 0.99401873
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_wWRzHGtK",
+                        "name": "eyeglasses",
+                        "value": 0.9928858
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Bt2Q57Jw",
+                        "name": "lens",
+                        "value": 0.9775871
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_0ZcNtwPP",
+                        "name": "sunglasses",
+                        "value": 0.95851016
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_86sS08Pw",
+                        "name": "wear",
+                        "value": 0.95580703
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_1LvJFhKK",
+                        "name": "eyesight",
+                        "value": 0.9528557
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Lq00FggW",
+                        "name": "desktop",
+                        "value": 0.93447703
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_5Kp5FMJw",
+                        "name": "still life",
+                        "value": 0.90657157
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_P2ktCFHk",
+                        "name": "plastic",
+                        "value": 0.8978182
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_gJm9b4ts",
+                        "name": "vintage",
+                        "value": 0.897664
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_786Zr311",
+                        "name": "no person",
+                        "value": 0.8948816
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_XdcbGVpV",
+                        "name": "picture frame",
+                        "value": 0.8897747
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_4lvjn8qv",
+                        "name": "closeup",
+                        "value": 0.8754729
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_8ZMClWs6",
+                        "name": "vision",
+                        "value": 0.84558034
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Crr4Pxjt",
+                        "name": "accessory",
+                        "value": 0.8385024
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_4Qjv5PTH",
+                        "name": "modern",
+                        "value": 0.83696425
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_dngMN46t",
+                        "name": "fashion",
+                        "value": 0.8308823
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_GzNlpxwb",
+                        "name": "equipment",
+                        "value": 0.785898
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_F7mm63J4",
+                        "name": "fashionable",
+                        "value": 0.7853039
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Q4PjqMWV",
+                        "name": "optometry",
+                        "value": 0.78518426
+                    }
+                ]
+            },
+            "id": "e691a2e2dca74fcca206e7aac006806e",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "true",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img2/prod/small/d89d07d71d084afe80925d70ebff9d75/cb81a76738f84d8c9f690f53631f66b9"
+                    }
+                },
+                "id": "af7afe2559934daca2ce1e349ea49432"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 4.738473892211914,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2017-08-24T12:14:10.065981668Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_pPxqdnP5",
+                        "name": "room",
+                        "value": 0.9851831
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_786Zr311",
+                        "name": "no person",
+                        "value": 0.95359695
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_6lhccv44",
+                        "name": "business",
+                        "value": 0.95316815
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_c9n7SB25",
+                        "name": "furniture",
+                        "value": 0.95175266
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Pf2b7clG",
+                        "name": "indoors",
+                        "value": 0.92661154
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_mLjp28kd",
+                        "name": "laptop",
+                        "value": 0.9213076
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_SVshtN54",
+                        "name": "one",
+                        "value": 0.900298
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_9bHlLt8r",
+                        "name": "paper",
+                        "value": 0.8955908
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_x3nbJvpV",
+                        "name": "access",
+                        "value": 0.89295995
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_p9bzR7fH",
+                        "name": "education",
+                        "value": 0.8924812
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_PpTcwbdQ",
+                        "name": "computer",
+                        "value": 0.8800552
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_ll97lFvS",
+                        "name": "office",
+                        "value": 0.86810553
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_TkWkj1sX",
+                        "name": "container",
+                        "value": 0.86589694
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_62K34TR4",
+                        "name": "technology",
+                        "value": 0.85448027
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_xxnGcd42",
+                        "name": "seat",
+                        "value": 0.85278046
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_l8TKp2h5",
+                        "name": "people",
+                        "value": 0.84981215
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_ZrPNDjxN",
+                        "name": "daylight",
+                        "value": 0.8365603
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_86sS08Pw",
+                        "name": "wear",
+                        "value": 0.83001876
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_5Kp5FMJw",
+                        "name": "still life",
+                        "value": 0.82255495
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_9Dcdh0PK",
+                        "name": "house",
+                        "value": 0.819073
+                    }
+                ]
+            },
+            "id": "cf62a29f482d439493820a0097fa8617",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "true",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img2/prod/small/d89d07d71d084afe80925d70ebff9d75/a2b939dc4063478390cfd5d20616cb29"
+                    }
+                },
+                "id": "f6614077cb6044dbad604bc86f2cbced"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 14.335321187973022,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

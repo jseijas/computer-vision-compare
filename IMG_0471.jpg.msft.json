@@ -1,0 +1,106 @@
+{
+    "adult": {
+        "adultScore": 0.012746468186378479,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.0144204618409276
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.03515625
+        },
+        {
+            "name": "object_screen",
+            "score": 0.9375
+        }
+    ],
+    "color": {
+        "accentColor": "AE1D73",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White",
+            "Grey",
+            "Black"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7721746603234427,
+                "text": "a stainless steel oven and microwave"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "cabinet",
+            "oven",
+            "stainless",
+            "appliance",
+            "microwave",
+            "steel",
+            "kitchen",
+            "sitting",
+            "top",
+            "stove",
+            "silver",
+            "door",
+            "counter",
+            "food",
+            "open",
+            "refrigerator",
+            "machine",
+            "red",
+            "room"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 360
+    },
+    "requestId": "df0bf0ab-801e-475c-a61b-1face805c259",
+    "response_time": 2.899289846420288,
+    "tags": [
+        {
+            "confidence": 0.9955031275749207,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.9192873239517212,
+            "name": "oven"
+        },
+        {
+            "confidence": 0.9181474447250366,
+            "name": "stainless"
+        },
+        {
+            "confidence": 0.9113798141479492,
+            "hint": "animal",
+            "name": "appliance"
+        },
+        {
+            "confidence": 0.908109724521637,
+            "name": "microwave"
+        },
+        {
+            "confidence": 0.8913378715515137,
+            "name": "steel"
+        },
+        {
+            "confidence": 0.8106038570404053,
+            "name": "kitchen appliance"
+        },
+        {
+            "confidence": 0.3546106815338135,
+            "name": "silver"
+        }
+    ]
+}

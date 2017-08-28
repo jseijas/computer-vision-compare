@@ -1,0 +1,60 @@
+{
+    "response_time": 1.202120065689087,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "home appliance",
+                    "mid": "/m/019dx1",
+                    "score": 0.95062166
+                },
+                {
+                    "description": "major appliance",
+                    "mid": "/m/017_cz",
+                    "score": 0.9497142
+                },
+                {
+                    "description": "kitchen appliance",
+                    "mid": "/m/0h99cwc",
+                    "score": 0.9278875
+                },
+                {
+                    "description": "dishwasher",
+                    "mid": "/m/0ky7b",
+                    "score": 0.79460806
+                },
+                {
+                    "description": "electronics",
+                    "mid": "/m/02mrp",
+                    "score": 0.71590084
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/01jwgf",
+                    "score": 0.64899844
+                },
+                {
+                    "description": "gas stove",
+                    "mid": "/m/02wv84t",
+                    "score": 0.5493463
+                },
+                {
+                    "description": "kitchen stove",
+                    "mid": "/m/02wv746",
+                    "score": 0.52214456
+                },
+                {
+                    "description": "refrigerator",
+                    "mid": "/m/040b_t",
+                    "score": 0.52120876
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

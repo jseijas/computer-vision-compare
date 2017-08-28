@@ -1,0 +1,40 @@
+{
+    "response_time": 3.9593961238861084,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "fire extinguisher",
+                    "mid": "/m/01nl4x",
+                    "score": 0.9277466
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/02n3pb",
+                    "score": 0.83833855
+                },
+                {
+                    "description": "bottle",
+                    "mid": "/m/04dr76w",
+                    "score": 0.69007057
+                },
+                {
+                    "description": "cylinder",
+                    "mid": "/m/03h_4m",
+                    "score": 0.6486008
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/01jwgf",
+                    "score": 0.6196485
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

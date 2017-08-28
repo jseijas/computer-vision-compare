@@ -1,0 +1,54 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "refrigerator",
+                            "score": 0.819,
+                            "type_hierarchy": "/appliance/refrigerator"
+                        },
+                        {
+                            "class": "appliance",
+                            "score": 0.864
+                        },
+                        {
+                            "class": "electric refrigerator",
+                            "score": 0.624,
+                            "type_hierarchy": "/appliance/refrigerator/electric refrigerator"
+                        },
+                        {
+                            "class": "ice machine",
+                            "score": 0.53,
+                            "type_hierarchy": "/appliance/refrigerator/ice machine"
+                        },
+                        {
+                            "class": "ice maker",
+                            "score": 0.518,
+                            "type_hierarchy": "/appliance/ice maker"
+                        },
+                        {
+                            "class": "water cooler",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "gray color",
+                            "score": 0.842
+                        },
+                        {
+                            "class": "pink color",
+                            "score": 0.788
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": ""
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.7131712436676025
+}

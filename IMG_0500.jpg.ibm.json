@@ -1,0 +1,57 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "television",
+                            "score": 0.879,
+                            "type_hierarchy": "/radio/tv set/television"
+                        },
+                        {
+                            "class": "radio/tv set",
+                            "score": 0.726
+                        },
+                        {
+                            "class": "high-definition television",
+                            "score": 0.64,
+                            "type_hierarchy": "/telecommunication/broadcasting/television/high-definition television"
+                        },
+                        {
+                            "class": "broadcasting",
+                            "score": 0.64
+                        },
+                        {
+                            "class": "telecommunication",
+                            "score": 0.64
+                        },
+                        {
+                            "class": "liquid crystal display",
+                            "score": 0.5,
+                            "type_hierarchy": "/electronic device/video display/liquid crystal display"
+                        },
+                        {
+                            "class": "video display",
+                            "score": 0.531
+                        },
+                        {
+                            "class": "electronic device",
+                            "score": 0.531
+                        },
+                        {
+                            "class": "coal black color",
+                            "score": 0.992
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": ""
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.1221122741699219
+}

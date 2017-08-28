@@ -1,0 +1,55 @@
+{
+    "response_time": 1.3991401195526123,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "eyewear",
+                    "mid": "/m/0j272k5",
+                    "score": 0.9886317
+                },
+                {
+                    "description": "glasses",
+                    "mid": "/m/0jyfg",
+                    "score": 0.91327727
+                },
+                {
+                    "description": "vision care",
+                    "mid": "/m/0h8jxfl",
+                    "score": 0.8745827
+                },
+                {
+                    "description": "sunglasses",
+                    "mid": "/m/017ftj",
+                    "score": 0.86050695
+                },
+                {
+                    "description": "goggles",
+                    "mid": "/m/02_n6y",
+                    "score": 0.82139724
+                },
+                {
+                    "description": "personal protective equipment",
+                    "mid": "/m/0ffjr",
+                    "score": 0.71945786
+                },
+                {
+                    "description": "product design",
+                    "mid": "/m/03y18t",
+                    "score": 0.62233144
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/01jwgf",
+                    "score": 0.52178866
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

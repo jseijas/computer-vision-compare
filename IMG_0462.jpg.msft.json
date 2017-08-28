@@ -1,0 +1,74 @@
+{
+    "adult": {
+        "adultScore": 0.0619502030313015,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.04842270165681839
+    },
+    "categories": [
+        {
+            "name": "indoor_room",
+            "score": 0.6953125
+        },
+        {
+            "name": "others_",
+            "score": 0.01953125
+        }
+    ],
+    "color": {
+        "accentColor": "6C403A",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White",
+            "Grey",
+            "Black"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.21974903024901526,
+                "text": "a microwave is sitting on a counter"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "sitting",
+            "table",
+            "white",
+            "small",
+            "microwave",
+            "kitchen",
+            "top",
+            "counter",
+            "computer",
+            "desk",
+            "oven",
+            "laptop",
+            "refrigerator",
+            "laying",
+            "stove",
+            "room"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 360
+    },
+    "requestId": "608219a8-06b8-4855-a3ea-28bb6dfef385",
+    "response_time": 3.535200595855713,
+    "tags": [
+        {
+            "confidence": 0.975644052028656,
+            "name": "indoor"
+        }
+    ]
+}

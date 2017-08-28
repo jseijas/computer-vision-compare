@@ -1,0 +1,70 @@
+{
+    "adult": {
+        "adultScore": 0.014030741527676582,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.04746640473604202
+    },
+    "categories": [
+        {
+            "name": "abstract_rect",
+            "score": 0.40234375
+        },
+        {
+            "name": "others_",
+            "score": 0.04296875
+        }
+    ],
+    "color": {
+        "accentColor": "6B462F",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White",
+            "Black",
+            "Brown"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.2740907793775818,
+                "text": "a pair of sunglasses on a table"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "table",
+            "sitting",
+            "top",
+            "small",
+            "computer",
+            "pair",
+            "desk",
+            "laying"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 3024,
+        "width": 4032
+    },
+    "requestId": "e535ae82-6e58-44ff-a827-0a1956fab269",
+    "response_time": 13.898200035095215,
+    "tags": [
+        {
+            "confidence": 0.9621667861938477,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.3122195303440094,
+            "name": "case"
+        }
+    ]
+}

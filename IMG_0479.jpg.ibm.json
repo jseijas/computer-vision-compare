@@ -1,0 +1,63 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "person",
+                            "score": 0.882,
+                            "type_hierarchy": "/optical device/person"
+                        },
+                        {
+                            "class": "optical device",
+                            "score": 0.84
+                        },
+                        {
+                            "class": "teaspoon",
+                            "score": 0.656,
+                            "type_hierarchy": "/utensil/spoon/teaspoon"
+                        },
+                        {
+                            "class": "spoon",
+                            "score": 0.84
+                        },
+                        {
+                            "class": "utensil",
+                            "score": 0.881
+                        },
+                        {
+                            "class": "soupspoon",
+                            "score": 0.613,
+                            "type_hierarchy": "/utensil/spoon/soupspoon"
+                        },
+                        {
+                            "class": "sunglass",
+                            "score": 0.611,
+                            "type_hierarchy": "/optical device/lens system/sunglass"
+                        },
+                        {
+                            "class": "lens system",
+                            "score": 0.611
+                        },
+                        {
+                            "class": "Spork plastic utilsils",
+                            "score": 0.5,
+                            "type_hierarchy": "/utensil/tableware/Spork plastic utilsils"
+                        },
+                        {
+                            "class": "tableware",
+                            "score": 0.5
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": ""
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.4161415100097656
+}

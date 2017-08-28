@@ -1,0 +1,66 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "glove compartment",
+                            "score": 0.612,
+                            "type_hierarchy": "/room/compartment/glove compartment"
+                        },
+                        {
+                            "class": "compartment",
+                            "score": 0.628
+                        },
+                        {
+                            "class": "room",
+                            "score": 0.795
+                        },
+                        {
+                            "class": "galley (kitchen)",
+                            "score": 0.561,
+                            "type_hierarchy": "/room/kitchen/galley (kitchen)"
+                        },
+                        {
+                            "class": "kitchen",
+                            "score": 0.645
+                        },
+                        {
+                            "class": "server (computer)",
+                            "score": 0.514,
+                            "type_hierarchy": "/machine/computer/server (computer)"
+                        },
+                        {
+                            "class": "computer",
+                            "score": 0.52
+                        },
+                        {
+                            "class": "machine",
+                            "score": 0.525
+                        },
+                        {
+                            "class": "Restaurant Kitchen",
+                            "score": 0.5,
+                            "type_hierarchy": "/room/Restaurant Kitchen"
+                        },
+                        {
+                            "class": "gray color",
+                            "score": 0.872
+                        },
+                        {
+                            "class": "coal black color",
+                            "score": 0.676
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": ""
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.5141513347625732
+}

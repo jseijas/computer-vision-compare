@@ -1,0 +1,61 @@
+{
+    "adult": {
+        "adultScore": 0.016446171328425407,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.012697103433310986
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.99609375
+        }
+    ],
+    "color": {
+        "accentColor": "80684B",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "White",
+            "Black"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7964552897736337,
+                "text": "a black phone on a table"
+            }
+        ],
+        "tags": [
+            "table",
+            "cellphone",
+            "phone",
+            "sitting",
+            "black",
+            "white",
+            "holding",
+            "remote",
+            "laying"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 360
+    },
+    "requestId": "d11c0e4c-3e11-4040-897e-580bcbaca94c",
+    "response_time": 2.7961981296539307,
+    "tags": [
+        {
+            "confidence": 0.09257515519857407,
+            "name": "remote control"
+        }
+    ]
+}

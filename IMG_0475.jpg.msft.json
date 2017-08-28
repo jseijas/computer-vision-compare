@@ -1,0 +1,83 @@
+{
+    "adult": {
+        "adultScore": 0.02682649716734886,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.053674086928367615
+    },
+    "categories": [
+        {
+            "name": "object_sculpture",
+            "score": 0.98828125
+        }
+    ],
+    "color": {
+        "accentColor": "916D3A",
+        "dominantColorBackground": "Black",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White",
+            "Black"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.5338658200842945,
+                "text": "person in a white shirt"
+            }
+        ],
+        "tags": [
+            "clothing",
+            "indoor",
+            "person",
+            "table",
+            "white",
+            "food",
+            "sitting",
+            "man",
+            "holding",
+            "dressed",
+            "standing",
+            "woman",
+            "bed",
+            "shirt",
+            "large",
+            "people",
+            "young",
+            "room",
+            "phone"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 360
+    },
+    "requestId": "ebbee2da-5916-4af4-aa40-e3f3ef18d4c6",
+    "response_time": 5.944594383239746,
+    "tags": [
+        {
+            "confidence": 0.9362685680389404,
+            "name": "clothing"
+        },
+        {
+            "confidence": 0.9198666214942932,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.8648365139961243,
+            "name": "person"
+        },
+        {
+            "confidence": 0.18151186406612396,
+            "name": "clothes"
+        }
+    ]
+}

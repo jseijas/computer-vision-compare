@@ -1,0 +1,29 @@
+{
+    "Labels": [
+        {
+            "Confidence": 95.9461898803711,
+            "Name": "Flyer"
+        },
+        {
+            "Confidence": 95.9461898803711,
+            "Name": "Poster"
+        },
+        {
+            "Confidence": 83.96206665039062,
+            "Name": "Brochure"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "158",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 24 Aug 2017 12:09:21 GMT",
+            "x-amzn-requestid": "0f815b76-88c5-11e7-8c28-db9c1dc8d652"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "0f815b76-88c5-11e7-8c28-db9c1dc8d652",
+        "RetryAttempts": 0
+    },
+    "response_time": 1.0701069831848145
+}

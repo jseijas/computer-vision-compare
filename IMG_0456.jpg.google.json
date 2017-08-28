@@ -1,0 +1,40 @@
+{
+    "response_time": 1.6081607341766357,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "refrigerator",
+                    "mid": "/m/040b_t",
+                    "score": 0.9547696
+                },
+                {
+                    "description": "home appliance",
+                    "mid": "/m/019dx1",
+                    "score": 0.8705673
+                },
+                {
+                    "description": "major appliance",
+                    "mid": "/m/017_cz",
+                    "score": 0.8337459
+                },
+                {
+                    "description": "kitchen appliance",
+                    "mid": "/m/0h99cwc",
+                    "score": 0.8004051
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/01jwgf",
+                    "score": 0.65635425
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

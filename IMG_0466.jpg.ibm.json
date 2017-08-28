@@ -1,0 +1,39 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "watch",
+                            "score": 0.95,
+                            "type_hierarchy": "/measuring instrument/timepiece/watch"
+                        },
+                        {
+                            "class": "timepiece",
+                            "score": 0.951
+                        },
+                        {
+                            "class": "measuring instrument",
+                            "score": 0.951
+                        },
+                        {
+                            "class": "charcoal color",
+                            "score": 0.886
+                        },
+                        {
+                            "class": "coal black color",
+                            "score": 0.535
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": ""
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.429079532623291
+}

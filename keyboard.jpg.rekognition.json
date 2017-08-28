@@ -1,0 +1,37 @@
+{
+    "Labels": [
+        {
+            "Confidence": 96.18738555908203,
+            "Name": "Calculator"
+        },
+        {
+            "Confidence": 96.18738555908203,
+            "Name": "Electronics"
+        },
+        {
+            "Confidence": 96.18738555908203,
+            "Name": "Machine"
+        },
+        {
+            "Confidence": 88.22142028808594,
+            "Name": "Keyboard"
+        },
+        {
+            "Confidence": 62.08850860595703,
+            "Name": "Computer Keyboard"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "280",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 24 Aug 2017 12:12:09 GMT",
+            "x-amzn-requestid": "71c15627-88c5-11e7-8612-f5c6fe1bffb8"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "71c15627-88c5-11e7-8612-f5c6fe1bffb8",
+        "RetryAttempts": 0
+    },
+    "response_time": 4.879487752914429
+}

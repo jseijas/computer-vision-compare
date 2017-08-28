@@ -1,0 +1,49 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.10314178466797,
+            "Name": "Chair"
+        },
+        {
+            "Confidence": 99.10314178466797,
+            "Name": "Furniture"
+        },
+        {
+            "Confidence": 89.12677764892578,
+            "Name": "Chest"
+        },
+        {
+            "Confidence": 89.12677764892578,
+            "Name": "Drawer"
+        },
+        {
+            "Confidence": 82.64801788330078,
+            "Name": "Couch"
+        },
+        {
+            "Confidence": 50.697105407714844,
+            "Name": "Indoors"
+        },
+        {
+            "Confidence": 50.697105407714844,
+            "Name": "Interior Design"
+        },
+        {
+            "Confidence": 50.697105407714844,
+            "Name": "Room"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "415",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 24 Aug 2017 11:58:47 GMT",
+            "x-amzn-requestid": "93e8d835-88c3-11e7-9894-8f26d5f2b563"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "93e8d835-88c3-11e7-9894-8f26d5f2b563",
+        "RetryAttempts": 0
+    },
+    "response_time": 4.872487306594849
+}

@@ -1,0 +1,57 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.43697357177734,
+            "Name": "Electronics"
+        },
+        {
+            "Confidence": 98.43697357177734,
+            "Name": "Monitor"
+        },
+        {
+            "Confidence": 98.43697357177734,
+            "Name": "Screen"
+        },
+        {
+            "Confidence": 98.43697357177734,
+            "Name": "TV"
+        },
+        {
+            "Confidence": 98.43697357177734,
+            "Name": "Television"
+        },
+        {
+            "Confidence": 92.93440246582031,
+            "Name": "LCD Screen"
+        },
+        {
+            "Confidence": 59.579742431640625,
+            "Name": "Entertainment Center"
+        },
+        {
+            "Confidence": 54.32430648803711,
+            "Name": "Machine"
+        },
+        {
+            "Confidence": 54.32430648803711,
+            "Name": "Printer"
+        },
+        {
+            "Confidence": 50.99899673461914,
+            "Name": "Furniture"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "532",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 24 Aug 2017 12:02:57 GMT",
+            "x-amzn-requestid": "2b5ad4d2-88c4-11e7-8ee7-51c87e0631ce"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "2b5ad4d2-88c4-11e7-8ee7-51c87e0631ce",
+        "RetryAttempts": 0
+    },
+    "response_time": 0.9970998764038086
+}

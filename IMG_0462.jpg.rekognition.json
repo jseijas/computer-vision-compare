@@ -1,0 +1,65 @@
+{
+    "Labels": [
+        {
+            "Confidence": 96.44874572753906,
+            "Name": "Electronics"
+        },
+        {
+            "Confidence": 96.44874572753906,
+            "Name": "Monitor"
+        },
+        {
+            "Confidence": 96.44874572753906,
+            "Name": "Screen"
+        },
+        {
+            "Confidence": 96.44874572753906,
+            "Name": "TV"
+        },
+        {
+            "Confidence": 96.44874572753906,
+            "Name": "Television"
+        },
+        {
+            "Confidence": 63.77556228637695,
+            "Name": "Computer"
+        },
+        {
+            "Confidence": 63.77556228637695,
+            "Name": "LCD Screen"
+        },
+        {
+            "Confidence": 63.77556228637695,
+            "Name": "Laptop"
+        },
+        {
+            "Confidence": 63.77556228637695,
+            "Name": "Pc"
+        },
+        {
+            "Confidence": 55.03278350830078,
+            "Name": "Accessories"
+        },
+        {
+            "Confidence": 51.979957580566406,
+            "Name": "Footwear"
+        },
+        {
+            "Confidence": 51.979957580566406,
+            "Name": "Shoe"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "615",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 24 Aug 2017 12:03:22 GMT",
+            "x-amzn-requestid": "38a42b27-88c4-11e7-bf49-a7ee17cd8ccc"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "38a42b27-88c4-11e7-bf49-a7ee17cd8ccc",
+        "RetryAttempts": 0
+    },
+    "response_time": 2.0471270084381104
+}

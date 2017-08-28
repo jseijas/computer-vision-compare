@@ -1,0 +1,55 @@
+{
+    "response_time": 1.221031665802002,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "blender",
+                    "mid": "/m/02pjr4",
+                    "score": 0.96458316
+                },
+                {
+                    "description": "kitchen appliance",
+                    "mid": "/m/0h99cwc",
+                    "score": 0.92733884
+                },
+                {
+                    "description": "mixer",
+                    "mid": "/m/063rgb",
+                    "score": 0.9219833
+                },
+                {
+                    "description": "small appliance",
+                    "mid": "/m/017z18",
+                    "score": 0.9144368
+                },
+                {
+                    "description": "food processor",
+                    "mid": "/m/03y6mg",
+                    "score": 0.90941983
+                },
+                {
+                    "description": "home appliance",
+                    "mid": "/m/019dx1",
+                    "score": 0.8777191
+                },
+                {
+                    "description": "juicer",
+                    "mid": "/m/01prn0",
+                    "score": 0.65781665
+                },
+                {
+                    "description": "coffeemaker",
+                    "mid": "/m/07xyvk",
+                    "score": 0.6375043
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

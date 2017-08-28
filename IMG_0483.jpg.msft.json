@@ -1,0 +1,92 @@
+{
+    "adult": {
+        "adultScore": 0.05206412449479103,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.03397020325064659
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.04296875
+        },
+        {
+            "name": "text_",
+            "score": 0.31640625
+        }
+    ],
+    "color": {
+        "accentColor": "B45017",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "White"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.6310763297413008,
+                "text": "a screen shot of a computer"
+            }
+        ],
+        "tags": [
+            "electronics",
+            "indoor",
+            "monitor",
+            "sitting",
+            "photo",
+            "computer",
+            "top",
+            "table",
+            "black",
+            "man",
+            "screen",
+            "laptop",
+            "cellphone",
+            "display",
+            "bus",
+            "white",
+            "standing"
+        ]
+    },
+    "faces": [
+        {
+            "age": 84,
+            "faceRectangle": {
+                "height": 48,
+                "left": 129,
+                "top": 129,
+                "width": 48
+            },
+            "gender": "Male"
+        }
+    ],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 360
+    },
+    "requestId": "a8d6d54a-26fb-48dd-8a5e-a83d977f98cd",
+    "response_time": 4.081286430358887,
+    "tags": [
+        {
+            "confidence": 0.9305897951126099,
+            "name": "electronics"
+        },
+        {
+            "confidence": 0.30945897102355957,
+            "name": "display"
+        },
+        {
+            "confidence": 0.2074888050556183,
+            "name": "screenshot"
+        }
+    ]
+}

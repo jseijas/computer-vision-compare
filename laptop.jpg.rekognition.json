@@ -1,0 +1,33 @@
+{
+    "Labels": [
+        {
+            "Confidence": 68.24758911132812,
+            "Name": "White Board"
+        },
+        {
+            "Confidence": 59.626121520996094,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 51.49138641357422,
+            "Name": "Accessories"
+        },
+        {
+            "Confidence": 50.523109436035156,
+            "Name": "Furniture"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "222",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 24 Aug 2017 12:13:10 GMT",
+            "x-amzn-requestid": "95ba51e0-88c5-11e7-bf49-a7ee17cd8ccc"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "95ba51e0-88c5-11e7-bf49-a7ee17cd8ccc",
+        "RetryAttempts": 0
+    },
+    "response_time": 5.158466100692749
+}

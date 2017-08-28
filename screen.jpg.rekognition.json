@@ -1,0 +1,77 @@
+{
+    "Labels": [
+        {
+            "Confidence": 85.00416564941406,
+            "Name": "Electronics"
+        },
+        {
+            "Confidence": 85.00416564941406,
+            "Name": "Hardware"
+        },
+        {
+            "Confidence": 74.70013427734375,
+            "Name": "Monitor"
+        },
+        {
+            "Confidence": 74.70013427734375,
+            "Name": "Screen"
+        },
+        {
+            "Confidence": 73.71173858642578,
+            "Name": "Desk"
+        },
+        {
+            "Confidence": 73.71173858642578,
+            "Name": "Furniture"
+        },
+        {
+            "Confidence": 73.71173858642578,
+            "Name": "Table"
+        },
+        {
+            "Confidence": 62.34416198730469,
+            "Name": "Adapter"
+        },
+        {
+            "Confidence": 62.34416198730469,
+            "Name": "Connector"
+        },
+        {
+            "Confidence": 56.078636169433594,
+            "Name": "Computer"
+        },
+        {
+            "Confidence": 56.078636169433594,
+            "Name": "LCD Screen"
+        },
+        {
+            "Confidence": 56.078636169433594,
+            "Name": "Laptop"
+        },
+        {
+            "Confidence": 56.078636169433594,
+            "Name": "Pc"
+        },
+        {
+            "Confidence": 53.56098937988281,
+            "Name": "Plug"
+        },
+        {
+            "Confidence": 50.76644515991211,
+            "Name": "Entertainment Center"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "777",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 24 Aug 2017 12:17:24 GMT",
+            "x-amzn-requestid": "2dd782a4-88c6-11e7-9894-8f26d5f2b563"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "2dd782a4-88c6-11e7-9894-8f26d5f2b563",
+        "RetryAttempts": 0
+    },
+    "response_time": 3.7443745136260986
+}

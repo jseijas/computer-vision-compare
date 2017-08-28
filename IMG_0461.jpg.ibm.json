@@ -1,0 +1,74 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "television",
+                            "score": 0.686,
+                            "type_hierarchy": "/radio/tv set/television"
+                        },
+                        {
+                            "class": "radio/tv set",
+                            "score": 0.581
+                        },
+                        {
+                            "class": "computer",
+                            "score": 0.549,
+                            "type_hierarchy": "/machine/computer"
+                        },
+                        {
+                            "class": "machine",
+                            "score": 0.549
+                        },
+                        {
+                            "class": "high-definition television",
+                            "score": 0.54,
+                            "type_hierarchy": "/telecommunication/broadcasting/television/high-definition television"
+                        },
+                        {
+                            "class": "broadcasting",
+                            "score": 0.54
+                        },
+                        {
+                            "class": "telecommunication",
+                            "score": 0.54
+                        },
+                        {
+                            "class": "computer monitor",
+                            "score": 0.536,
+                            "type_hierarchy": "/electronic device/video display/computer monitor"
+                        },
+                        {
+                            "class": "video display",
+                            "score": 0.541
+                        },
+                        {
+                            "class": "electronic device",
+                            "score": 0.542
+                        },
+                        {
+                            "class": "television equipment",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "coal black color",
+                            "score": 0.924
+                        },
+                        {
+                            "class": "charcoal color",
+                            "score": 0.643
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": ""
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.1041033267974854
+}

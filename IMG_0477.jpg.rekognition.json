@@ -1,0 +1,29 @@
+{
+    "Labels": [
+        {
+            "Confidence": 92.23298645019531,
+            "Name": "Crash Helmet"
+        },
+        {
+            "Confidence": 92.23298645019531,
+            "Name": "Hardhat"
+        },
+        {
+            "Confidence": 92.23298645019531,
+            "Name": "Helmet"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "166",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 24 Aug 2017 12:08:11 GMT",
+            "x-amzn-requestid": "e595d987-88c4-11e7-81f1-5fca4a096250"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "e595d987-88c4-11e7-81f1-5fca4a096250",
+        "RetryAttempts": 0
+    },
+    "response_time": 0.9790616035461426
+}

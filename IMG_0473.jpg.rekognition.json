@@ -1,0 +1,25 @@
+{
+    "Labels": [
+        {
+            "Confidence": 79.47996520996094,
+            "Name": "Appliance"
+        },
+        {
+            "Confidence": 79.47996520996094,
+            "Name": "Dishwasher"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "117",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 24 Aug 2017 12:06:34 GMT",
+            "x-amzn-requestid": "ac412f0f-88c4-11e7-97aa-858fb0aac121"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "ac412f0f-88c4-11e7-97aa-858fb0aac121",
+        "RetryAttempts": 0
+    },
+    "response_time": 1.0331032276153564
+}

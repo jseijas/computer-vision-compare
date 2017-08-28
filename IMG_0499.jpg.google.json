@@ -1,0 +1,45 @@
+{
+    "response_time": 1.163116216659546,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "product",
+                    "mid": "/m/02n3pb",
+                    "score": 0.7670925
+                },
+                {
+                    "description": "product design",
+                    "mid": "/m/03y18t",
+                    "score": 0.6150283
+                },
+                {
+                    "description": "telephone",
+                    "mid": "/m/07cx4",
+                    "score": 0.58379424
+                },
+                {
+                    "description": "telephony",
+                    "mid": "/m/0bhmh",
+                    "score": 0.5757567
+                },
+                {
+                    "description": "corded phone",
+                    "mid": "/m/0h8lkj8",
+                    "score": 0.5674756
+                },
+                {
+                    "description": "electronics",
+                    "mid": "/m/02mrp",
+                    "score": 0.54764456
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

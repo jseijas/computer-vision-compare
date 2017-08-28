@@ -1,0 +1,65 @@
+{
+    "response_time": 0.9750971794128418,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "headphones",
+                    "mid": "/m/01b7fy",
+                    "score": 0.9611355
+                },
+                {
+                    "description": "technology",
+                    "mid": "/m/07c1v",
+                    "score": 0.92835176
+                },
+                {
+                    "description": "electronic device",
+                    "mid": "/m/0bs7_0t",
+                    "score": 0.9062954
+                },
+                {
+                    "description": "audio equipment",
+                    "mid": "/m/01yttv",
+                    "score": 0.8966264
+                },
+                {
+                    "description": "audio",
+                    "mid": "/m/0h91fqv",
+                    "score": 0.85068625
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/02n3pb",
+                    "score": 0.66166383
+                },
+                {
+                    "description": "headset",
+                    "mid": "/m/03mb156",
+                    "score": 0.637866
+                },
+                {
+                    "description": "electronics",
+                    "mid": "/m/02mrp",
+                    "score": 0.59526765
+                },
+                {
+                    "description": "product design",
+                    "mid": "/m/03y18t",
+                    "score": 0.59146625
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/01jwgf",
+                    "score": 0.54896814
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

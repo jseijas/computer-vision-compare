@@ -1,0 +1,40 @@
+{
+    "response_time": 4.771477222442627,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "product design",
+                    "mid": "/m/03y18t",
+                    "score": 0.655865
+                },
+                {
+                    "description": "furniture",
+                    "mid": "/m/0c_jw",
+                    "score": 0.550296
+                },
+                {
+                    "description": "waste container",
+                    "mid": "/m/0bjyj5",
+                    "score": 0.5493439
+                },
+                {
+                    "description": "glass",
+                    "mid": "/m/039jq",
+                    "score": 0.545406
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/01jwgf",
+                    "score": 0.53396904
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

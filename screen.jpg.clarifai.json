@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2017-08-24T12:18:17.726650719Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_PpTcwbdQ",
+                        "name": "computer",
+                        "value": 0.99409664
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_xBpBSlkz",
+                        "name": "screen",
+                        "value": 0.9929788
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_62K34TR4",
+                        "name": "technology",
+                        "value": 0.9926219
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_JbCBc2rB",
+                        "name": "television",
+                        "value": 0.98089087
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_XjXrH3qf",
+                        "name": "electronics",
+                        "value": 0.9780147
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_pPxqdnP5",
+                        "name": "room",
+                        "value": 0.97801304
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_hHMzVnx2",
+                        "name": "internet",
+                        "value": 0.9701282
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_6lhccv44",
+                        "name": "business",
+                        "value": 0.9690833
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_0xgpwDWl",
+                        "name": "monitor",
+                        "value": 0.967969
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_GzNlpxwb",
+                        "name": "equipment",
+                        "value": 0.9558703
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_pPJbNBqf",
+                        "name": "connection",
+                        "value": 0.95343626
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_M8sQ9ML9",
+                        "name": "display",
+                        "value": 0.9528225
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_ll97lFvS",
+                        "name": "office",
+                        "value": 0.9475622
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Pf2b7clG",
+                        "name": "indoors",
+                        "value": 0.93199587
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_6KkVGbdm",
+                        "name": "telephone",
+                        "value": 0.92615277
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_mLjp28kd",
+                        "name": "laptop",
+                        "value": 0.92490816
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_ZDfXCqZQ",
+                        "name": "desk",
+                        "value": 0.9114109
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_0qS6nzzT",
+                        "name": "wireless",
+                        "value": 0.90627
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_c9n7SB25",
+                        "name": "furniture",
+                        "value": 0.90009093
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_8LWlDfFD",
+                        "name": "table",
+                        "value": 0.89637625
+                    }
+                ]
+            },
+            "id": "c0236ad5e99b4df1b160b0bf5a99d1a1",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "true",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img2/prod/small/d89d07d71d084afe80925d70ebff9d75/acc5247cabbc4c84a4ddc8e85ef35ee9"
+                    }
+                },
+                "id": "b68bebec28ac43e3906c3df0b8243a7b"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 13.11631155014038,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

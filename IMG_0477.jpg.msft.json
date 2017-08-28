@@ -1,0 +1,91 @@
+{
+    "adult": {
+        "adultScore": 0.059730615466833115,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.042692895978689194
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.7265625
+        }
+    ],
+    "color": {
+        "accentColor": "684C38",
+        "dominantColorBackground": "Brown",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Brown",
+            "White",
+            "Black"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.5559957331288007,
+                "text": "a black helmet sitting on a table"
+            }
+        ],
+        "tags": [
+            "headdress",
+            "clothing",
+            "helmet",
+            "indoor",
+            "table",
+            "sitting",
+            "desk",
+            "black",
+            "small",
+            "top",
+            "computer",
+            "cat",
+            "wooden",
+            "mouse",
+            "cake",
+            "room",
+            "white",
+            "keyboard",
+            "plate",
+            "laying",
+            "standing",
+            "kitchen"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 360
+    },
+    "requestId": "37b81611-4934-43b7-b6d4-895e6b3c3158",
+    "response_time": 4.117408514022827,
+    "tags": [
+        {
+            "confidence": 0.9958407282829285,
+            "name": "headdress"
+        },
+        {
+            "confidence": 0.9931938648223877,
+            "name": "clothing"
+        },
+        {
+            "confidence": 0.9876569509506226,
+            "name": "helmet"
+        },
+        {
+            "confidence": 0.9791552424430847,
+            "name": "floor"
+        },
+        {
+            "confidence": 0.943500816822052,
+            "name": "indoor"
+        }
+    ]
+}

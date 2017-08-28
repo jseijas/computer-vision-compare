@@ -1,0 +1,65 @@
+{
+    "response_time": 4.137413501739502,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "furniture",
+                    "mid": "/m/0c_jw",
+                    "score": 0.9739154
+                },
+                {
+                    "description": "chair",
+                    "mid": "/m/01mzpv",
+                    "score": 0.94384325
+                },
+                {
+                    "description": "office chair",
+                    "mid": "/m/08q1xp",
+                    "score": 0.9389398
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/02n3pb",
+                    "score": 0.82282543
+                },
+                {
+                    "description": "product design",
+                    "mid": "/m/03y18t",
+                    "score": 0.7436361
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/01jwgf",
+                    "score": 0.74357843
+                },
+                {
+                    "description": "floor",
+                    "mid": "/m/0l7_8",
+                    "score": 0.6036285
+                },
+                {
+                    "description": "desk",
+                    "mid": "/m/01y9k5",
+                    "score": 0.60361034
+                },
+                {
+                    "description": "angle",
+                    "mid": "/m/0mwc",
+                    "score": 0.5931672
+                },
+                {
+                    "description": "comfort",
+                    "mid": "/m/08xgn7",
+                    "score": 0.5690975
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

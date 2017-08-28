@@ -1,0 +1,48 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "dishwasher",
+                            "score": 0.942,
+                            "type_hierarchy": "/appliance/dishwasher"
+                        },
+                        {
+                            "class": "appliance",
+                            "score": 0.943
+                        },
+                        {
+                            "class": "server (computer)",
+                            "score": 0.5,
+                            "type_hierarchy": "/machine/computer/server (computer)"
+                        },
+                        {
+                            "class": "computer",
+                            "score": 0.502
+                        },
+                        {
+                            "class": "machine",
+                            "score": 0.505
+                        },
+                        {
+                            "class": "ash grey color",
+                            "score": 0.838
+                        },
+                        {
+                            "class": "gray color",
+                            "score": 0.837
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": ""
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.2111213207244873
+}

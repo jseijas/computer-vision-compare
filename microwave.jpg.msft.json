@@ -1,0 +1,83 @@
+{
+    "adult": {
+        "adultScore": 0.021945537999272346,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.01533216331154108
+    },
+    "categories": [
+        {
+            "name": "abstract_",
+            "score": 0.00390625
+        },
+        {
+            "name": "others_",
+            "score": 0.33203125
+        }
+    ],
+    "color": {
+        "accentColor": "203E67",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "Grey",
+            "White"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.439852441737382,
+                "text": "a white microwave oven sitting on a counter"
+            }
+        ],
+        "tags": [
+            "microwave",
+            "oven",
+            "indoor",
+            "sitting",
+            "kitchen",
+            "top",
+            "table",
+            "counter",
+            "white",
+            "stove",
+            "small",
+            "computer",
+            "refrigerator",
+            "standing",
+            "sink"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 4032,
+        "width": 3024
+    },
+    "requestId": "2fc47fe7-9499-438b-bde9-75bc378215ae",
+    "response_time": 14.253289937973022,
+    "tags": [
+        {
+            "confidence": 0.9420626163482666,
+            "name": "microwave"
+        },
+        {
+            "confidence": 0.8914754390716553,
+            "name": "oven"
+        },
+        {
+            "confidence": 0.8815815448760986,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.6176942586898804,
+            "name": "counter"
+        }
+    ]
+}

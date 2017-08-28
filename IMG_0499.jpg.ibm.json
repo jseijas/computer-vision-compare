@@ -1,0 +1,62 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "desk phone",
+                            "score": 0.805,
+                            "type_hierarchy": "/telecommunication/telephone/desk phone"
+                        },
+                        {
+                            "class": "telephone",
+                            "score": 0.859
+                        },
+                        {
+                            "class": "telecommunication",
+                            "score": 0.926
+                        },
+                        {
+                            "class": "telephone system",
+                            "score": 0.526,
+                            "type_hierarchy": "/system/communication system/telephone system"
+                        },
+                        {
+                            "class": "communication system",
+                            "score": 0.536
+                        },
+                        {
+                            "class": "system",
+                            "score": 0.536
+                        },
+                        {
+                            "class": "hot line",
+                            "score": 0.513,
+                            "type_hierarchy": "/telecommunication/telephone line/hot line"
+                        },
+                        {
+                            "class": "telephone line",
+                            "score": 0.669
+                        },
+                        {
+                            "class": "land line telephone",
+                            "score": 0.5,
+                            "type_hierarchy": "/telecommunication/telephone line/land line telephone"
+                        },
+                        {
+                            "class": "charcoal color",
+                            "score": 0.853
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": ""
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.469146966934204
+}

@@ -1,0 +1,45 @@
+{
+    "response_time": 1.1850464344024658,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "jacket",
+                    "mid": "/m/032b3c",
+                    "score": 0.96299696
+                },
+                {
+                    "description": "leather jacket",
+                    "mid": "/m/0dly90",
+                    "score": 0.8337234
+                },
+                {
+                    "description": "leather",
+                    "mid": "/m/04lbp",
+                    "score": 0.69945896
+                },
+                {
+                    "description": "textile",
+                    "mid": "/m/0dnr7",
+                    "score": 0.67465365
+                },
+                {
+                    "description": "fur",
+                    "mid": "/m/0cnmr",
+                    "score": 0.52604115
+                },
+                {
+                    "description": "hood",
+                    "mid": "/m/02h9bf",
+                    "score": 0.5145236
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

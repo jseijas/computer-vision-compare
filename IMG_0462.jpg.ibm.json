@@ -1,0 +1,63 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "office furniture",
+                            "score": 0.726,
+                            "type_hierarchy": "/furniture/office furniture"
+                        },
+                        {
+                            "class": "furniture",
+                            "score": 0.846
+                        },
+                        {
+                            "class": "office",
+                            "score": 0.554,
+                            "type_hierarchy": "/building/office"
+                        },
+                        {
+                            "class": "building",
+                            "score": 0.554
+                        },
+                        {
+                            "class": "reception desk",
+                            "score": 0.541,
+                            "type_hierarchy": "/furniture/table/reception desk"
+                        },
+                        {
+                            "class": "table",
+                            "score": 0.657
+                        },
+                        {
+                            "class": "desk",
+                            "score": 0.511,
+                            "type_hierarchy": "/furniture/table/desk"
+                        },
+                        {
+                            "class": "franking machine",
+                            "score": 0.5,
+                            "type_hierarchy": "/machine/franking machine"
+                        },
+                        {
+                            "class": "machine",
+                            "score": 0.503
+                        },
+                        {
+                            "class": "charcoal color",
+                            "score": 1.0
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": ""
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.2661147117614746
+}

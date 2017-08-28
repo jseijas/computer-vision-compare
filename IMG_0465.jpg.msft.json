@@ -1,0 +1,96 @@
+{
+    "adult": {
+        "adultScore": 0.02332652360200882,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.02677469328045845
+    },
+    "categories": [
+        {
+            "name": "abstract_",
+            "score": 0.00390625
+        },
+        {
+            "name": "others_",
+            "score": 0.1171875
+        },
+        {
+            "name": "outdoor_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "8B6440",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White",
+            "Grey"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9119134930674052,
+                "text": "a close up of a guitar"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "guitar",
+            "sitting",
+            "small",
+            "table",
+            "top",
+            "black",
+            "room",
+            "kitchen",
+            "computer",
+            "refrigerator",
+            "cat",
+            "desk",
+            "living",
+            "white",
+            "bed",
+            "laying",
+            "mouse",
+            "standing",
+            "bedroom"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 360
+    },
+    "requestId": "b8ec91d0-b5aa-4f31-8eab-42a645fe33fa",
+    "response_time": 2.8881094455718994,
+    "tags": [
+        {
+            "confidence": 0.9955995082855225,
+            "name": "wall"
+        },
+        {
+            "confidence": 0.9735939502716064,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.9501882791519165,
+            "name": "music"
+        },
+        {
+            "confidence": 0.9449158906936646,
+            "name": "floor"
+        },
+        {
+            "confidence": 0.8345000147819519,
+            "name": "guitar"
+        }
+    ]
+}

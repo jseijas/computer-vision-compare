@@ -1,0 +1,81 @@
+{
+    "adult": {
+        "adultScore": 0.04104887321591377,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.04456289857625961
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.9765625
+        }
+    ],
+    "color": {
+        "accentColor": "836448",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "White",
+            "Grey"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.5618537996457561,
+                "text": "a black and silver phone"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "sitting",
+            "table",
+            "top",
+            "monitor",
+            "device",
+            "computer",
+            "laptop",
+            "cellphone",
+            "phone",
+            "black",
+            "silver",
+            "counter",
+            "keyboard",
+            "close",
+            "wooden",
+            "white",
+            "old",
+            "mouse",
+            "display",
+            "blue"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 1,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 360
+    },
+    "requestId": "373c385b-5f30-461a-87f0-b5b7faf8523e",
+    "response_time": 2.485248565673828,
+    "tags": [
+        {
+            "confidence": 0.8900704979896545,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.30202072858810425,
+            "name": "electronic"
+        },
+        {
+            "confidence": 0.19795283675193787,
+            "name": "silver"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "response_time": 1.1750445365905762,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "guitar",
+                    "mid": "/m/0342h",
+                    "score": 0.97901136
+                },
+                {
+                    "description": "musical instrument",
+                    "mid": "/m/04szw",
+                    "score": 0.9746244
+                },
+                {
+                    "description": "acoustic guitar",
+                    "mid": "/m/042v_gx",
+                    "score": 0.930568
+                },
+                {
+                    "description": "string instrument",
+                    "mid": "/m/011_f4",
+                    "score": 0.92277366
+                },
+                {
+                    "description": "plucked string instruments",
+                    "mid": "/m/0fx80y",
+                    "score": 0.8660141
+                },
+                {
+                    "description": "tiple",
+                    "mid": "/m/04psz1",
+                    "score": 0.82759553
+                },
+                {
+                    "description": "acoustic electric guitar",
+                    "mid": "/m/025tr5z",
+                    "score": 0.82057595
+                },
+                {
+                    "description": "string instrument accessory",
+                    "mid": "/m/0h8ntcl",
+                    "score": 0.793291
+                },
+                {
+                    "description": "string instrument",
+                    "mid": "/m/0d8lm",
+                    "score": 0.782464
+                },
+                {
+                    "description": "cuatro",
+                    "mid": "/m/0dr1f6",
+                    "score": 0.73294437
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

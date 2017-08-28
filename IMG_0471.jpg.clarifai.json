@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2017-08-24T12:06:32.855258140Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_786Zr311",
+                        "name": "no person",
+                        "value": 0.9805783
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_j09mzT6j",
+                        "name": "family",
+                        "value": 0.9720688
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Pf2b7clG",
+                        "name": "indoors",
+                        "value": 0.9613581
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_WBSxss6P",
+                        "name": "stove",
+                        "value": 0.95114005
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_4Qjv5PTH",
+                        "name": "modern",
+                        "value": 0.9277545
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_pCnxWJZh",
+                        "name": "contemporary",
+                        "value": 0.92329985
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_pPxqdnP5",
+                        "name": "room",
+                        "value": 0.9147043
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_9Dcdh0PK",
+                        "name": "house",
+                        "value": 0.907141
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_62K34TR4",
+                        "name": "technology",
+                        "value": 0.90219617
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_LCrBqP4R",
+                        "name": "oven",
+                        "value": 0.89577496
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_cXSwCBJP",
+                        "name": "home appliance",
+                        "value": 0.89388573
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_WTrlNkqM",
+                        "name": "vehicle",
+                        "value": 0.8731489
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_6lhccv44",
+                        "name": "business",
+                        "value": 0.8635875
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_tfVtmrnm",
+                        "name": "refrigerator",
+                        "value": 0.853431
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_GzNlpxwb",
+                        "name": "equipment",
+                        "value": 0.8294474
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_KXNqVd5F",
+                        "name": "cooking",
+                        "value": 0.80717814
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_XdwTxJz3",
+                        "name": "steel",
+                        "value": 0.80396134
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_k76BrtPJ",
+                        "name": "music",
+                        "value": 0.79244053
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_ggQlMG6W",
+                        "name": "industry",
+                        "value": 0.7883837
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_7Xg5SQRW",
+                        "name": "luxury",
+                        "value": 0.78416294
+                    }
+                ]
+            },
+            "id": "c78a3df49dac44e9abbae79ea7558c71",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "true",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img2/prod/small/d89d07d71d084afe80925d70ebff9d75/d931836888c24f9c8a4d0184b824a233"
+                    }
+                },
+                "id": "a2b94f98bb1342088ea751c79495f757"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 5.046504497528076,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

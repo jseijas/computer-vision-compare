@@ -1,0 +1,73 @@
+{
+    "adult": {
+        "adultScore": 0.007520284038037062,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.01002188678830862
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.99609375
+        }
+    ],
+    "color": {
+        "accentColor": "0683C5",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7929478482283219,
+                "text": "a stereo on a table"
+            }
+        ],
+        "tags": [
+            "stereo",
+            "indoor",
+            "sitting",
+            "table",
+            "black",
+            "cellphone",
+            "different",
+            "top",
+            "phone",
+            "computer",
+            "group",
+            "remote",
+            "display",
+            "mouse"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 360
+    },
+    "requestId": "414d545c-dba7-4704-bd7d-f268ba58f48a",
+    "response_time": 4.36629843711853,
+    "tags": [
+        {
+            "confidence": 0.8613259792327881,
+            "name": "iPod"
+        },
+        {
+            "confidence": 0.7929351329803467,
+            "name": "electronics"
+        },
+        {
+            "confidence": 0.2929117679595947,
+            "name": "cellphone"
+        }
+    ]
+}

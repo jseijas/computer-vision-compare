@@ -1,0 +1,41 @@
+{
+    "Labels": [
+        {
+            "Confidence": 97.0081787109375,
+            "Name": "Lute"
+        },
+        {
+            "Confidence": 97.0081787109375,
+            "Name": "Mandolin"
+        },
+        {
+            "Confidence": 97.0081787109375,
+            "Name": "Musical Instrument"
+        },
+        {
+            "Confidence": 96.49798583984375,
+            "Name": "Guitar"
+        },
+        {
+            "Confidence": 55.597686767578125,
+            "Name": "Electric Guitar"
+        },
+        {
+            "Confidence": 51.3331298828125,
+            "Name": "Bass Guitar"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "329",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 24 Aug 2017 12:04:32 GMT",
+            "x-amzn-requestid": "63d4d726-88c4-11e7-8a15-4d310521c5f7"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "63d4d726-88c4-11e7-8a15-4d310521c5f7",
+        "RetryAttempts": 0
+    },
+    "response_time": 0.9090514183044434
+}

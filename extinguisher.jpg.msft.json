@@ -1,0 +1,80 @@
+{
+    "adult": {
+        "adultScore": 0.02324092574417591,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.04305571690201759
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "A72724",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Red",
+        "dominantColors": [
+            "Grey",
+            "Red"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.24444284396263005,
+                "text": "a red refrigerator and a table"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "red",
+            "table",
+            "sitting",
+            "computer",
+            "food",
+            "desk",
+            "top",
+            "counter",
+            "refrigerator",
+            "kitchen",
+            "laptop",
+            "hot",
+            "white",
+            "large",
+            "room",
+            "dog",
+            "man",
+            "sandwich",
+            "standing"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 4032,
+        "width": 3024
+    },
+    "requestId": "8ecf6235-0e4f-405b-a4d1-527b54a0a351",
+    "response_time": 14.67346715927124,
+    "tags": [
+        {
+            "confidence": 0.9890655279159546,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.9842761754989624,
+            "name": "wall"
+        },
+        {
+            "confidence": 0.8602311611175537,
+            "name": "red"
+        }
+    ]
+}

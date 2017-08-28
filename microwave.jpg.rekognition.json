@@ -1,0 +1,41 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.63832092285156,
+            "Name": "Appliance"
+        },
+        {
+            "Confidence": 98.63832092285156,
+            "Name": "Microwave"
+        },
+        {
+            "Confidence": 98.63832092285156,
+            "Name": "Oven"
+        },
+        {
+            "Confidence": 79.88392639160156,
+            "Name": "Coffee Table"
+        },
+        {
+            "Confidence": 79.88392639160156,
+            "Name": "Furniture"
+        },
+        {
+            "Confidence": 79.88392639160156,
+            "Name": "Table"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "318",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 24 Aug 2017 12:14:14 GMT",
+            "x-amzn-requestid": "bd15b2d6-88c5-11e7-8a15-4d310521c5f7"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "bd15b2d6-88c5-11e7-8a15-4d310521c5f7",
+        "RetryAttempts": 0
+    },
+    "response_time": 3.308330774307251
+}

@@ -1,0 +1,37 @@
+{
+    "Labels": [
+        {
+            "Confidence": 94.4266357421875,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 65.759765625,
+            "Name": "Appliance"
+        },
+        {
+            "Confidence": 65.759765625,
+            "Name": "Fridge"
+        },
+        {
+            "Confidence": 65.759765625,
+            "Name": "Refrigerator"
+        },
+        {
+            "Confidence": 50.83707046508789,
+            "Name": "Furniture"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "252",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 24 Aug 2017 12:02:33 GMT",
+            "x-amzn-requestid": "1bebdfb6-88c4-11e7-ab75-fdeb90473760"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "1bebdfb6-88c4-11e7-ab75-fdeb90473760",
+        "RetryAttempts": 0
+    },
+    "response_time": 1.317131519317627
+}

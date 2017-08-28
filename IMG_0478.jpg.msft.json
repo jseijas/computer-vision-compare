@@ -1,0 +1,74 @@
+{
+    "adult": {
+        "adultScore": 0.02252798341214657,
+        "isAdultContent": false,
+        "isRacyContent": true,
+        "racyScore": 0.43228471279144287
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.58984375
+        }
+    ],
+    "color": {
+        "accentColor": "7B6650",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Black"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.3930148203108753,
+                "text": "a mouse sitting on a table"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "table",
+            "sitting",
+            "small",
+            "wooden",
+            "desk",
+            "black",
+            "open",
+            "mouse",
+            "top",
+            "computer",
+            "brown",
+            "keyboard",
+            "white",
+            "laying"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 360
+    },
+    "requestId": "c9a825b0-b85c-4e65-8380-6445e74a8be8",
+    "response_time": 2.4872488975524902,
+    "tags": [
+        {
+            "confidence": 0.9665833711624146,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.9448944926261902,
+            "name": "floor"
+        },
+        {
+            "confidence": 0.6980558633804321,
+            "name": "electronics"
+        }
+    ]
+}

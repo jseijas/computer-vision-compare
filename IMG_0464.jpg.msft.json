@@ -1,0 +1,79 @@
+{
+    "adult": {
+        "adultScore": 0.05624545365571976,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.03970905393362045
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.54296875
+        }
+    ],
+    "color": {
+        "accentColor": "BEA30D",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "White",
+            "Black",
+            "Grey"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.34615473368349436,
+                "text": "a microwave is sitting on the floor"
+            }
+        ],
+        "tags": [
+            "floor",
+            "indoor",
+            "sitting",
+            "kitchen",
+            "table",
+            "computer",
+            "small",
+            "desk",
+            "black",
+            "top",
+            "front",
+            "microwave",
+            "oven",
+            "office",
+            "stove",
+            "keyboard",
+            "room",
+            "white",
+            "refrigerator",
+            "yellow",
+            "mouse",
+            "standing"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 480,
+        "width": 360
+    },
+    "requestId": "0b3e0617-caba-4917-9a68-095eda99e7dd",
+    "response_time": 2.713186740875244,
+    "tags": [
+        {
+            "confidence": 0.9989020824432373,
+            "name": "floor"
+        },
+        {
+            "confidence": 0.9973629117012024,
+            "name": "indoor"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "Labels": [
+        {
+            "Confidence": 82.56731414794922,
+            "Name": "Electronics"
+        },
+        {
+            "Confidence": 82.56731414794922,
+            "Name": "Monitor"
+        },
+        {
+            "Confidence": 82.56731414794922,
+            "Name": "Screen"
+        },
+        {
+            "Confidence": 82.56731414794922,
+            "Name": "TV"
+        },
+        {
+            "Confidence": 82.56731414794922,
+            "Name": "Television"
+        },
+        {
+            "Confidence": 62.57365417480469,
+            "Name": "LCD Screen"
+        },
+        {
+            "Confidence": 57.51325988769531,
+            "Name": "Entertainment Center"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "379",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 24 Aug 2017 12:10:58 GMT",
+            "x-amzn-requestid": "490ef0d6-88c5-11e7-8d08-e1ac59288e01"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "490ef0d6-88c5-11e7-8d08-e1ac59288e01",
+        "RetryAttempts": 0
+    },
+    "response_time": 1.1471147537231445
+}

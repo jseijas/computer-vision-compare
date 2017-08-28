@@ -1,0 +1,60 @@
+{
+    "response_time": 1.4671082496643066,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "furniture",
+                    "mid": "/m/0c_jw",
+                    "score": 0.9523554
+                },
+                {
+                    "description": "desk",
+                    "mid": "/m/01y9k5",
+                    "score": 0.84653777
+                },
+                {
+                    "description": "table",
+                    "mid": "/m/04bcr3",
+                    "score": 0.7076307
+                },
+                {
+                    "description": "product design",
+                    "mid": "/m/03y18t",
+                    "score": 0.68349946
+                },
+                {
+                    "description": "electronic device",
+                    "mid": "/m/0bs7_0t",
+                    "score": 0.5865116
+                },
+                {
+                    "description": "angle",
+                    "mid": "/m/0mwc",
+                    "score": 0.5594065
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/01jwgf",
+                    "score": 0.5551365
+                },
+                {
+                    "description": "office",
+                    "mid": "/m/021sj1",
+                    "score": 0.5284601
+                },
+                {
+                    "description": "office supplies",
+                    "mid": "/m/02rdsp",
+                    "score": 0.50597644
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

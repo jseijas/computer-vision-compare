@@ -1,0 +1,70 @@
+{
+    "adult": {
+        "adultScore": 0.0849229022860527,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.05487948656082153
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.99609375
+        }
+    ],
+    "color": {
+        "accentColor": "746158",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "White",
+            "Grey"
+        ],
+        "isBWImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.1391436253919197,
+                "text": "a microwave is sitting on a table"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "table",
+            "sitting",
+            "top",
+            "small",
+            "cellphone",
+            "box",
+            "camera",
+            "phone",
+            "white",
+            "black",
+            "different",
+            "counter",
+            "microwave",
+            "desk",
+            "computer",
+            "case",
+            "laying"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 4032,
+        "width": 3024
+    },
+    "requestId": "4cca4aae-07fb-4dd4-859e-cc0c3f3ad65f",
+    "response_time": 12.719271898269653,
+    "tags": [
+        {
+            "confidence": 0.9843807220458984,
+            "name": "indoor"
+        }
+    ]
+}
